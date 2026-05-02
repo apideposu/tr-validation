@@ -140,6 +140,11 @@ normalizeDistrict("Merkez");
 - `normalizeProvince` and `normalizeDistrict` use the bundled static dataset plus Turkish text normalization.
 - `validateIban` remains TR-only and performs structural validation plus MOD-97 checksum.
 
+## Docs
+
+- Release notes: [RELEASE_NOTES.md](./RELEASE_NOTES.md)
+- Roadmap: [ROADMAP.md](./ROADMAP.md)
+
 ## Development
 
 ```bash
