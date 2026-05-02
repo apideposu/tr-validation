@@ -40,6 +40,13 @@ jobs:
       - name: Build package
         run: npm run build
 
+      - name: Run runtime smoke checks
+        run: npm run smoke:runtime
+
+      - name: Check bundle size budget
+        if: matrix.node-version == 20
+        run: npm run size:check
+
       - name: Check package contents
         if: matrix.node-version == 20
         run: npm pack --dry-run

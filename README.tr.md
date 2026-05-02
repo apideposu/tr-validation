@@ -271,4 +271,7 @@ Location'a ozel:
 npm run datasets:check
 npm test
 npm run build
+npm run smoke:runtime
+npm run size:check
+npm run benchmark
 ```

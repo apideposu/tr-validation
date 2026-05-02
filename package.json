@@ -52,6 +52,9 @@
   ],
   "scripts": {
     "datasets:check": "node scripts/check-datasets.mjs",
+    "size:check": "node scripts/check-bundle-size.mjs",
+    "smoke:runtime": "node scripts/smoke-runtime.mjs",
+    "benchmark": "node scripts/benchmark.mjs",
     "clean": "node -e \"require('node:fs').rmSync('dist',{ recursive: true, force: true })\"",
     "build": "tsup",
     "test": "vitest run",
