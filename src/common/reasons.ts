@@ -49,6 +49,10 @@ export const POSTAL_CODE_REASON_CODES = {
   INVALID_PROVINCE_CODE: "INVALID_PROVINCE_CODE",
 } as const;
 
+export const BARCODE_REASON_CODES = {
+  UNSUPPORTED_BARCODE_TYPE: "UNSUPPORTED_BARCODE_TYPE",
+} as const;
+
 export type CommonReasonCode =
   (typeof COMMON_REASON_CODES)[keyof typeof COMMON_REASON_CODES];
 
@@ -87,3 +91,7 @@ export type MersisReasonCode =
 export type PostalCodeReasonCode =
   | CommonReasonCode
   | (typeof POSTAL_CODE_REASON_CODES)[keyof typeof POSTAL_CODE_REASON_CODES];
+
+export type BarcodeReasonCode =
+  | CommonReasonCode
+  | (typeof BARCODE_REASON_CODES)[keyof typeof BARCODE_REASON_CODES];
