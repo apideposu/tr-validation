@@ -64,4 +64,12 @@ describe("validateTckn", () => {
     expect(result.normalized).toBe("");
     expect(result.reasons).toEqual(["EMPTY_INPUT"]);
   });
+
+  it("keeps unsupported-character reason when normalization removes everything", () => {
+    const result = validateTckn("TCKN");
+
+    expect(result.ok).toBe(false);
+    expect(result.normalized).toBe("");
+    expect(result.reasons).toEqual(["UNSUPPORTED_CHARACTERS", "EMPTY_INPUT"]);
+  });
 });

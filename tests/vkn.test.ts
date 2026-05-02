@@ -52,4 +52,12 @@ describe("validateVkn", () => {
     expect(result.ok).toBe(false);
     expect(result.reasons).toEqual(["EMPTY_INPUT"]);
   });
+
+  it("keeps unsupported-character reason when normalization removes everything", () => {
+    const result = validateVkn("VKN");
+
+    expect(result.ok).toBe(false);
+    expect(result.normalized).toBe("");
+    expect(result.reasons).toEqual(["UNSUPPORTED_CHARACTERS", "EMPTY_INPUT"]);
+  });
 });

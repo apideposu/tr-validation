@@ -3,21 +3,21 @@ import { createValidationResult, type ValidationResult } from "../common/result"
 
 export type VknValidationResult = ValidationResult<VknReasonCode>;
 
-const TOLERATED_SEPARATORS = /[\s._/-]+/g;
 const UNSUPPORTED_VKN_CHARACTERS = /[^0-9\s._/-]/;
 const REPEATED_DIGITS = /^(\d)\1+$/;
 
 export function validateVkn(input: string): VknValidationResult {
   const normalized = normalizeVknInput(input);
   const reasons: VknReasonCode[] = [];
+  const hasUnsupportedCharacters = UNSUPPORTED_VKN_CHARACTERS.test(input);
+
+  if (hasUnsupportedCharacters) {
+    reasons.push(COMMON_REASON_CODES.UNSUPPORTED_CHARACTERS);
+  }
 
   if (normalized.length === 0) {
     reasons.push(COMMON_REASON_CODES.EMPTY_INPUT);
-    return createValidationResult(input, normalized, reasons);
-  }
-
-  if (UNSUPPORTED_VKN_CHARACTERS.test(input)) {
-    reasons.push(COMMON_REASON_CODES.UNSUPPORTED_CHARACTERS);
+    return createValidationResult(input, normalized, dedupeReasons(reasons));
   }
 
   if (normalized.length !== 10) {
