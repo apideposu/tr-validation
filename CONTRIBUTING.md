@@ -50,6 +50,12 @@ npm run build
 - Add or update tests for every behavior change.
 - Keep README wording privacy-safe and local-only.
 - Do not log sensitive inputs.
+- New core features should normally provide at least one of these:
+  - checksum or known control algorithm
+  - bundled dataset cross-checking
+  - canonical parsing/normalization with ambiguity handling
+- Regex-only helpers should not be added to the core package.
+- Framework ergonomics such as Zod, React Hook Form, Valibot, NestJS, or similar integrations belong in optional adapter packages, not in core.
 
 ## Dataset Changes
 

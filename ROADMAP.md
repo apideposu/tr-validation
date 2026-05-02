@@ -13,17 +13,30 @@ Long term:
 ## Near Term
 
 - Keep result objects and reason codes stable across minor releases.
+- Finish release hygiene for every published version: tag, GitHub release, npm smoke check, changelog.
 - Improve examples and integration docs for Node.js, browsers, and form workflows.
-- Add clearer dataset versioning notes for bundled static location data.
+- Add `validateBatch` and `getReasonMessage` before opening new algorithm-heavy domains.
+- Add bundle-size and runtime-compatibility checks so the core package stays dependency-safe.
 - Expand parity coverage between the package and backend for core behavior only.
 
 ## Possible Next Features
 
+- `validateBatch([...])` for import, CRM, and bulk form-cleaning flows
+- `getReasonMessage(code, lang)` for UI-friendly localized error text
+- Optional adapter packages such as `@apideposu/tr-validation-zod`
+- Framework examples for Next.js, NestJS, and plain Node.js
+- Phone area-code to province hints and emergency-number classification
 - Address-focused helpers built on top of the existing province and district dataset
-- Additional normalization helpers for common Turkiye-specific form inputs
-- More fixture-based edge-case tests for phone, district ambiguity, and mixed-format input
 - Turkish-formatted date parser (DD.MM.YYYY, written month names)
-- Number-to-Turkish-words helper (e.g. invoice amount in words)
+- Company-title normalization and tax-office normalization
+
+## Ecosystem Strategy
+
+- Keep `@apideposu/tr-validation` as the lightweight core package.
+- Keep framework dependencies out of core. React, Zod, Valibot, NestJS, and similar integrations belong in optional adapter packages.
+- Do not open multiple new repos at once. Start with examples in this repo, then create adapter repos only when the first adapter is real and publish-ready.
+- Treat heavy datasets such as neighborhood/address layers as separate package candidates rather than growing the core tarball by default.
+- See [ECOSYSTEM_ROADMAP.md](./ECOSYSTEM_ROADMAP.md) for the detailed phased plan.
 
 ## Out of Scope
 

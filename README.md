@@ -347,6 +347,7 @@ Currency-specific:
 
 - Contribution guide: [CONTRIBUTING.md](./CONTRIBUTING.md)
 - Dataset maintenance: [DATASETS.md](./DATASETS.md)
+- Ecosystem roadmap: [ECOSYSTEM_ROADMAP.md](./ECOSYSTEM_ROADMAP.md)
 - Release notes: [RELEASE_NOTES.md](./RELEASE_NOTES.md)
 - Roadmap: [ROADMAP.md](./ROADMAP.md)
 
