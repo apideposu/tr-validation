@@ -23,6 +23,26 @@ Turkish documentation: [README.tr.md](./README.tr.md)
 - Ambiguous district names such as `Merkez` may require province context.
 - A successful result does not mean official verification.
 
+## Installation
+
+```bash
+npm install @apideposu/tr-validation
+```
+
+## Quick Start
+
+```ts
+import {
+  normalizePhone,
+  validateIban,
+  validateTckn,
+} from "@apideposu/tr-validation";
+
+const tckn = validateTckn("100 000 001-46");
+const iban = validateIban("tr62 0001 0012 3456 7890 1234 56");
+const phone = normalizePhone("0532 123 45 67");
+```
+
 ## Current Scope
 
 Exports:
@@ -38,12 +58,6 @@ Exports:
 - `getDistrictsByProvince`
 - `normalizeProvince`
 - `normalizeDistrict`
-
-## Installation
-
-```bash
-npm install @apideposu/tr-validation
-```
 
 ## API Overview
 
@@ -78,7 +92,7 @@ Function summary:
 | `normalizeProvince(input)` | Matches a province by code, name, or slug | Returns `province` on success |
 | `normalizeDistrict(input, options?)` | Matches a district, optionally within a province | Returns `district` and `province` on success |
 
-## Usage
+## Extended Usage
 
 ```ts
 import {

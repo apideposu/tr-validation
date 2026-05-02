@@ -23,6 +23,26 @@ English documentation: [README.md](./README.md)
 - `Merkez` gibi belirsiz ilçe adlarında province context gerekebilir.
 - Başarılı sonuç, resmi doğrulama yapıldığı anlamına gelmez.
 
+## Kurulum
+
+```bash
+npm install @apideposu/tr-validation
+```
+
+## Hızlı Başlangıç
+
+```ts
+import {
+  normalizePhone,
+  validateIban,
+  validateTckn,
+} from "@apideposu/tr-validation";
+
+const tckn = validateTckn("100 000 001-46");
+const iban = validateIban("tr62 0001 0012 3456 7890 1234 56");
+const phone = normalizePhone("0532 123 45 67");
+```
+
 ## Mevcut Kapsam
 
 Export edilen fonksiyonlar:
@@ -38,12 +58,6 @@ Export edilen fonksiyonlar:
 - `getDistrictsByProvince`
 - `normalizeProvince`
 - `normalizeDistrict`
-
-## Kurulum
-
-```bash
-npm install @apideposu/tr-validation
-```
 
 ## API Özeti
 
@@ -78,7 +92,7 @@ Fonksiyon özeti:
 | `normalizeProvince(input)` | İl kodu, adı veya slug ile eşleme yapar | Başarılıysa `province` döner |
 | `normalizeDistrict(input, options?)` | İlçe eşlemesi yapar, gerekirse province context kullanır | Başarılıysa `district` ve `province` döner |
 
-## Kullanım
+## Geniş Kullanım
 
 ```ts
 import {
