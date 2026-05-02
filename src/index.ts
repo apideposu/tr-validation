@@ -4,6 +4,7 @@ export {
   IBAN_REASON_CODES,
   LOCATION_REASON_CODES,
   PHONE_REASON_CODES,
+  PLATE_REASON_CODES,
   TCKN_REASON_CODES,
   VKN_REASON_CODES,
 } from "./common/reasons";
@@ -12,6 +13,7 @@ export type {
   IbanReasonCode,
   LocationReasonCode,
   PhoneReasonCode,
+  PlateReasonCode,
   TcknReasonCode,
   VknReasonCode,
 } from "./common/reasons";
@@ -27,6 +29,8 @@ export type { NormalizeProvinceResult } from "./location/normalize-province";
 export type { DistrictRecord, ProvinceRecord } from "./location/types";
 export { normalizePhone } from "./phone/normalize-phone";
 export type { NormalizePhoneOptions, PhoneNormalizationResult, PhoneNumberType, PhoneOperator } from "./phone/normalize-phone";
+export { validatePlate } from "./plate/validate-plate";
+export type { PlateProvinceInfo, PlateValidationResult } from "./plate/validate-plate";
 export { validateTckn } from "./tckn/validate-tckn";
 export type { TcknValidationResult } from "./tckn/validate-tckn";
 export { normalizeTurkishText } from "./text/normalize-turkish";

@@ -29,6 +29,13 @@ export const LOCATION_REASON_CODES = {
   AMBIGUOUS_DISTRICT: "AMBIGUOUS_DISTRICT",
 } as const;
 
+export const PLATE_REASON_CODES = {
+  INVALID_FORMAT: "INVALID_FORMAT",
+  INVALID_PROVINCE_CODE: "INVALID_PROVINCE_CODE",
+  INVALID_LETTER_BLOCK: "INVALID_LETTER_BLOCK",
+  INVALID_DIGIT_BLOCK: "INVALID_DIGIT_BLOCK",
+} as const;
+
 export type CommonReasonCode =
   (typeof COMMON_REASON_CODES)[keyof typeof COMMON_REASON_CODES];
 
@@ -51,3 +58,7 @@ export type PhoneReasonCode =
 export type LocationReasonCode =
   | CommonReasonCode
   | (typeof LOCATION_REASON_CODES)[keyof typeof LOCATION_REASON_CODES];
+
+export type PlateReasonCode =
+  | CommonReasonCode
+  | (typeof PLATE_REASON_CODES)[keyof typeof PLATE_REASON_CODES];
