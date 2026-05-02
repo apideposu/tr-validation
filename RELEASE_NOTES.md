@@ -1,5 +1,29 @@
 # Release Notes
 
+## 0.2.1 - 2026-05-02
+
+This is a stabilization release focused on release readiness, documentation clarity, and deeper validation coverage.
+
+Added:
+
+- stronger edge-case test coverage across TCKN, VKN, IBAN, phone, location, and text helpers
+- a dataset validation script for province and district JSON maintenance
+- CI checks for dataset validation, tests, build, and `npm pack --dry-run`
+- clearer README guidance for quick start, limitations, and reason codes
+
+Behavior and packaging:
+
+- no new public runtime features were added
+- no backend integration was added
+- the package remains fully local-only
+- published package contents are unchanged except for documentation updates
+
+Notes:
+
+- `npm run datasets:check` now validates bundled static location data before release
+- README now makes TR-only IBAN, static dataset boundaries, and prefix-based operator hints more explicit
+- this release is intended to harden `0.2.x` before any further scope expansion
+
 ## 0.2.0 - 2026-05-02
 
 This release expands the local-only toolkit beyond ID, IBAN, and text helpers.
