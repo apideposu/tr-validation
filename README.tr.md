@@ -1,27 +1,27 @@
 # @apideposu/tr-validation
 
-`@apideposu/tr-validation`, Türkiye'ye özgü form verileri için local-only çalışan bir doğrulama ve normalizasyon paketidir.
+`@apideposu/tr-validation`, Turkiye'ye ozgu form verileri icin local-only calisan bir dogrulama ve normalizasyon paketidir.
 
 English documentation: [README.md](./README.md)
 
 ## Local-Only ve Gizlilik
 
-- Paket tamamen kullanıcının kendi projesi içinde çalışır.
+- Paket tamamen kullanicinin kendi projesi icinde calisir.
 - API Deposu backend'ine istek atmaz.
-- Veriyi dışarı göndermez.
+- Veriyi disari gondermez.
 - Registry lookup yapmaz.
-- Telemetry, analytics veya network call içermez.
-- Resmi kişi, şirket, vergi veya banka hesabı doğrulaması yapmaz.
-- Sadece yapısal kontrol, bilinen kontrol algoritmaları ve normalizasyon sağlar.
+- Telemetry, analytics veya network call icermez.
+- Resmi kisi, sirket, vergi veya banka hesabi dogrulamasi yapmaz.
+- Sadece yapisal kontrol, bilinen kontrol algoritmalari ve normalizasyon saglar.
 
-## Sınırlar
+## Sinirlar
 
-- `validateIban` yalnızca `TR` IBAN için çalışır.
-- `normalizePhone` güncel operatörü doğrulamaz ve numara taşıma kayıtlarını sorgulamaz.
-- `possibleOriginalOperator` alanı sadece prefix tabanlı bir ipucudur.
-- `normalizeProvince` ve `normalizeDistrict`, canlı resmi kayıtlar yerine paketle gelen statik veri setini kullanır.
-- `Merkez` gibi belirsiz ilçe adlarında province context gerekebilir.
-- Başarılı sonuç, resmi doğrulama yapıldığı anlamına gelmez.
+- `validateIban` yalnizca `TR` IBAN icin calisir.
+- `normalizePhone` guncel operatoru dogrulamaz ve numara tasima kayitlarini sorgulamaz.
+- `possibleOriginalOperator` alani sadece prefix tabanli bir ipucudur.
+- `normalizeProvince` ve `normalizeDistrict`, canli resmi kayitlar yerine paketle gelen statik veri setini kullanir.
+- `Merkez` gibi belirsiz ilce adlarinda province context gerekebilir.
+- Basarili sonuc, resmi dogrulama yapildigi anlamina gelmez.
 
 ## Kurulum
 
@@ -29,7 +29,7 @@ English documentation: [README.md](./README.md)
 npm install @apideposu/tr-validation
 ```
 
-## Hızlı Başlangıç
+## Hizli Baslangic
 
 ```ts
 import {
@@ -59,9 +59,9 @@ Export edilen fonksiyonlar:
 - `normalizeProvince`
 - `normalizeDistrict`
 
-## API Özeti
+## API Ozeti
 
-Temel validation result yapısı:
+Temel validation result yapisi:
 
 ```ts
 {
@@ -76,23 +76,23 @@ Temel validation result yapısı:
 }
 ```
 
-Fonksiyon özeti:
+Fonksiyon ozeti:
 
-| Fonksiyon | Amaç | Not |
+| Fonksiyon | Amac | Not |
 | --- | --- | --- |
-| `validateTckn(input)` | TCKN için yapısal kontrol | Sadece format + bilinen kontrol algoritması |
-| `validateVkn(input)` | VKN için yapısal kontrol | Sadece format + bilinen kontrol algoritması |
-| `validateIban(input)` | TR IBAN için yapısal kontrol | TR-only, MOD-97 checksum |
-| `formatIban(input)` | IBAN'i 4'lü gruplar halinde formatlar | Separator ve casing normalize edilir |
-| `normalizeTurkishText(input)` | Türkçe odaklı text normalization | `trimmed`, `normalized`, `ascii`, `slug`, `searchKey` döner |
-| `slugifyTurkish(input)` | Türkçe slug helper | `normalizeTurkishText(input).slug` ile tutarlıdır |
-| `normalizePhone(input, options?)` | Türk telefon numarasını local normalize eder | `e164`, `national`, `country`, `type` ve prefix tabanlı operator hint ekler |
-| `getProvinces()` | Paket içindeki il listesini döner | Sadece statik dataset |
-| `getDistrictsByProvince(provinceCodeOrSlug)` | Bir ile ait ilçeleri döner | Sadece statik dataset |
-| `normalizeProvince(input)` | İl kodu, adı veya slug ile eşleme yapar | Başarılıysa `province` döner |
-| `normalizeDistrict(input, options?)` | İlçe eşlemesi yapar, gerekirse province context kullanır | Başarılıysa `district` ve `province` döner |
+| `validateTckn(input)` | TCKN icin yapisal kontrol | Sadece format + bilinen kontrol algoritmasi |
+| `validateVkn(input)` | VKN icin yapisal kontrol | Sadece format + bilinen kontrol algoritmasi |
+| `validateIban(input)` | TR IBAN icin yapisal kontrol | TR-only, MOD-97 checksum |
+| `formatIban(input)` | IBAN'i 4'lu gruplar halinde formatlar | Separator ve casing normalize edilir |
+| `normalizeTurkishText(input)` | Turkce odakli text normalization | `trimmed`, `normalized`, `ascii`, `slug`, `searchKey` doner |
+| `slugifyTurkish(input)` | Turkce slug helper | `normalizeTurkishText(input).slug` ile tutarlidir |
+| `normalizePhone(input, options?)` | Turk telefon numarasini local normalize eder | `e164`, `national`, `country`, `type` ve prefix tabanli operator hint ekler |
+| `getProvinces()` | Paket icindeki il listesini doner | Sadece statik dataset |
+| `getDistrictsByProvince(provinceCodeOrSlug)` | Bir ile ait ilceleri doner | Sadece statik dataset |
+| `normalizeProvince(input)` | Il kodu, adi veya slug ile eslesme yapar | Basariliysa `province` doner |
+| `normalizeDistrict(input, options?)` | Ilce eslesmesi yapar, gerekirse province context kullanir | Basariliysa `district` ve `province` doner |
 
-## Geniş Kullanım
+## Genis Kullanim
 
 ```ts
 import {
@@ -135,7 +135,7 @@ const {
 const result = normalizePhone("0532 123 45 67");
 ```
 
-## Örnek Sonuçlar
+## Ornek Sonuclar
 
 ```ts
 normalizePhone("0532 123 45 67");
@@ -195,62 +195,63 @@ normalizeDistrict("Merkez");
 
 Ortak reason code'lar:
 
-| Kod | Anlamı |
+| Kod | Anlami |
 | --- | --- |
-| `EMPTY_INPUT` | Normalizasyondan sonra input boş kaldı |
-| `UNSUPPORTED_CHARACTERS` | Input desteklenmeyen karakterler içeriyor |
-| `INVALID_LENGTH` | Uzunluk beklenen yapısal uzunluğa uymuyor |
-| `INVALID_CHECKSUM` | Bilinen kontrol algoritmasını geçemedi |
+| `EMPTY_INPUT` | Normalizasyondan sonra input bos kaldi |
+| `UNSUPPORTED_CHARACTERS` | Input desteklenmeyen karakterler iceriyor |
+| `INVALID_LENGTH` | Uzunluk beklenen yapisal uzunluga uymuyor |
+| `INVALID_CHECKSUM` | Bilinen kontrol algoritmasini gecemedi |
 
-TCKN'ye özel:
+TCKN'ye ozel:
 
-| Kod | Anlamı |
+| Kod | Anlami |
 | --- | --- |
-| `LEADING_ZERO` | İlk hane `0` |
-| `REPEATED_DIGITS` | Tüm haneler aynı |
+| `LEADING_ZERO` | Ilk hane `0` |
+| `REPEATED_DIGITS` | Tum haneler ayni |
 
-VKN'ye özel:
+VKN'ye ozel:
 
-| Kod | Anlamı |
+| Kod | Anlami |
 | --- | --- |
-| `REPEATED_DIGITS` | Tüm haneler aynı |
+| `REPEATED_DIGITS` | Tum haneler ayni |
 
-IBAN'a özel:
+IBAN'a ozel:
 
-| Kod | Anlamı |
+| Kod | Anlami |
 | --- | --- |
-| `NON_TR_IBAN` | IBAN `TR` ile başlamıyor |
+| `NON_TR_IBAN` | IBAN `TR` ile baslamiyor |
 
-Phone'a özel:
+Phone'a ozel:
 
-| Kod | Anlamı |
+| Kod | Anlami |
 | --- | --- |
-| `INVALID_PHONE` | Input geçerli bir telefon numarası olarak parse edilemedi |
-| `NON_TR_PHONE` | Numara geçerli ama Türk numarası değil |
+| `INVALID_PHONE` | Input gecerli bir telefon numarasi olarak parse edilemedi |
+| `NON_TR_PHONE` | Numara gecerli ama Turk numarasi degil |
 
-Location'a özel:
+Location'a ozel:
 
-| Kod | Anlamı |
+| Kod | Anlami |
 | --- | --- |
-| `PROVINCE_NOT_FOUND` | İl eşleşmesi çözülemedi |
-| `DISTRICT_NOT_FOUND` | İlçe eşleşmesi çözülemedi |
-| `AMBIGUOUS_DISTRICT` | İlçe adı birden fazla ilde bulunuyor |
+| `PROVINCE_NOT_FOUND` | Il eslesmesi cozulemedi |
+| `DISTRICT_NOT_FOUND` | Ilce eslesmesi cozulemedi |
+| `AMBIGUOUS_DISTRICT` | Ilce adi birden fazla ilde bulunuyor |
 
 ## Notlar
 
-- `normalizePhone`, `libphonenumber-js` paketini local olarak kullanır.
-- `possibleOriginalOperator`, sadece numara prefix'inden türetilir ve numara taşıma nedeniyle güncel olmayabilir.
-- `getProvinces` ve `getDistrictsByProvince`, paketle gelen statik JSON verisini kullanır.
-- `normalizeProvince` ve `normalizeDistrict`, statik dataset ile Türkçe text normalization yaklaşımını birlikte kullanır.
-- `validateIban`, sadece TR IBAN için yapısal kontrol ve MOD-97 checksum uygular.
+- `normalizePhone`, `libphonenumber-js` paketini local olarak kullanir.
+- `possibleOriginalOperator`, sadece numara prefix'inden turetilir ve numara tasima nedeniyle guncel olmayabilir.
+- `getProvinces` ve `getDistrictsByProvince`, paketle gelen statik JSON verisini kullanir.
+- `normalizeProvince` ve `normalizeDistrict`, statik dataset ile Turkce text normalization yaklasimini birlikte kullanir.
+- `validateIban`, sadece TR IBAN icin yapisal kontrol ve MOD-97 checksum uygular.
 
-## Dokümanlar
+## Dokumanlar
 
+- Katki rehberi: [CONTRIBUTING.md](./CONTRIBUTING.md)
 - Dataset maintenance: [DATASETS.md](./DATASETS.md)
 - Release notes: [RELEASE_NOTES.md](./RELEASE_NOTES.md)
 - Roadmap: [ROADMAP.md](./ROADMAP.md)
 
-## Geliştirme
+## Gelistirme
 
 ```bash
 npm run datasets:check

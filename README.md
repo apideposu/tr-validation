@@ -246,6 +246,7 @@ Location-specific:
 
 ## Docs
 
+- Contribution guide: [CONTRIBUTING.md](./CONTRIBUTING.md)
 - Dataset maintenance: [DATASETS.md](./DATASETS.md)
 - Release notes: [RELEASE_NOTES.md](./RELEASE_NOTES.md)
 - Roadmap: [ROADMAP.md](./ROADMAP.md)

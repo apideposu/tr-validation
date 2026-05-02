@@ -40,3 +40,14 @@ These are intentionally not package goals:
 
 - `0.x` means the package is usable but still settling public API details.
 - `1.0.0` should only happen after the core API surface and edge-case behavior are considered stable.
+
+## 1.0.0 Before
+
+The package should not move to `1.0.0` until all of the following are true:
+
+- Public API shape is stable and no breaking changes are planned.
+- Reason codes are finalized for the current scope.
+- Real usage feedback has been collected from package consumers.
+- No known core parity issues remain between the package and the hosted API wrapper.
+- README limitations and privacy boundaries are clear enough to prevent common misuse.
+- Core feature scope has been stable long enough to justify a stronger compatibility promise.
