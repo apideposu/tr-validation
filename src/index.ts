@@ -1,4 +1,6 @@
 export type { ValidationResult } from "./common/result";
+export { getReasonMessage } from "./common/reason-messages";
+export type { ReasonMessageLocale } from "./common/reason-messages";
 export { validateBatch } from "./batch/validate-batch";
 export type {
   BatchItemId,
@@ -38,6 +40,7 @@ export {
 } from "./common/reasons";
 export type {
   BarcodeReasonCode,
+  AnyReasonCode,
   CardReasonCode,
   CommonReasonCode,
   CurrencyReasonCode,

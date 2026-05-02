@@ -113,3 +113,18 @@ export type NumberReasonCode =
 export type CurrencyReasonCode =
   | NumberReasonCode
   | (typeof CURRENCY_REASON_CODES)[keyof typeof CURRENCY_REASON_CODES];
+
+export type AnyReasonCode =
+  | CommonReasonCode
+  | TcknReasonCode
+  | VknReasonCode
+  | IbanReasonCode
+  | PhoneReasonCode
+  | LocationReasonCode
+  | PlateReasonCode
+  | CardReasonCode
+  | MersisReasonCode
+  | PostalCodeReasonCode
+  | BarcodeReasonCode
+  | NumberReasonCode
+  | CurrencyReasonCode;

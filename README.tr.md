@@ -59,6 +59,7 @@ Export edilen fonksiyonlar:
 - `normalizeProvince`
 - `normalizeDistrict`
 - `validateBatch`
+- `getReasonMessage`
 
 ## API Ozeti
 
@@ -93,6 +94,7 @@ Fonksiyon ozeti:
 | `normalizeProvince(input)` | Il kodu, adi veya slug ile eslesme yapar | Basariliysa `province` doner |
 | `normalizeDistrict(input, options?)` | Ilce eslesmesi yapar, gerekirse province context kullanir | Basariliysa `district` ve `province` doner |
 | `validateBatch(items)` | Karisik validator/parser islemlerini sirayla calistirir | Input sirasini korur ve mevcut core fonksiyonlara delege eder |
+| `getReasonMessage(code, locale?)` | Reason code'lari UI dostu metne cevirir | Form ve import akislari icin `tr` / `en` mesajlar saglar |
 
 ## Genis Kullanim
 
@@ -106,6 +108,7 @@ import {
   normalizeProvince,
   normalizeTurkishText,
   slugifyTurkish,
+  getReasonMessage,
   validateBatch,
   validateIban,
   validateTckn,
@@ -129,6 +132,7 @@ const batch = validateBatch([
   { type: "iban", value: "TR62 0001 0012 3456 7890 1234 56" },
   { type: "phone", value: "0532 123 45 67" },
 ]);
+const message = getReasonMessage("INVALID_CHECKSUM", "tr");
 ```
 
 CommonJS:

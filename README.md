@@ -57,6 +57,7 @@ Exports:
 - `validatePostalCode`
 - `validateBarcode`
 - `validateBatch`
+- `getReasonMessage`
 - `parseTurkishNumber`
 - `parseTurkishCurrency`
 - `resolveIbanBank`
@@ -101,6 +102,7 @@ Function summary:
 | `validatePostalCode(input)` | Structural validation for 5-digit TR postal code | First two digits cross-checked against the province dataset |
 | `validateBarcode(input)` | EAN-13 / EAN-8 checksum validation | Detects type and flags Turkish GS1 prefixes (868, 869) |
 | `validateBatch(items)` | Runs mixed validators/parsers in order | Preserves input order and delegates to existing core functions |
+| `getReasonMessage(code, locale?)` | Maps reason codes to UI-friendly text | Localized `tr` / `en` messages for form and import workflows |
 | `parseTurkishNumber(input)` | Locale-aware numeric parser | Detects TR (`1.234,56`) vs EN (`1,234.56`) grouping; flags ambiguous `1.234` |
 | `parseTurkishCurrency(input)` | Currency-aware numeric parser | Recognizes `₺`, `$`, `€`, `£`, `TL`, ISO 4217 codes (TRY, USD, EUR, GBP, ...) |
 | `resolveIbanBank(input)` | Resolves a bank from a valid TR IBAN | Uses bundled BDDK code table, returns `null` for unknown codes |
@@ -126,6 +128,7 @@ import {
   normalizeProvince,
   normalizeTurkishText,
   slugifyTurkish,
+  getReasonMessage,
   validateBatch,
   validateIban,
   validateTckn,
@@ -149,6 +152,7 @@ const batch = validateBatch([
   { type: "iban", value: "TR62 0001 0012 3456 7890 1234 56" },
   { type: "phone", value: "0532 123 45 67" },
 ]);
+const message = getReasonMessage("INVALID_CHECKSUM", "tr");
 ```
 
 CommonJS:
