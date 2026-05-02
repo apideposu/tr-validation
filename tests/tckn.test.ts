@@ -88,4 +88,12 @@ describe("validateTckn", () => {
     expect(result.normalized).toBe("");
     expect(result.reasons).toEqual(["UNSUPPORTED_CHARACTERS", "EMPTY_INPUT"]);
   });
+
+  it("accepts crafted patterns that satisfy the checksum (structural validation only)", () => {
+    const result = validateTckn("11111111110");
+
+    expect(result.ok).toBe(true);
+    expect(result.reasons).toEqual([]);
+    expect(result.officialVerification).toBe(false);
+  });
 });

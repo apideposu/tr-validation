@@ -371,6 +371,8 @@ This package never performs:
 
 A successful result from this package means the input is structurally valid and passes the published checksum or control algorithm. It does not mean the corresponding person, company, account, plate, address, or product exists in any official registry.
 
+Some synthetic inputs that satisfy the published algorithm are still accepted as structurally valid (for example, a TCKN whose digits follow a crafted pattern can pass the 10th and 11th check-digit math). Confirming whether such an input belongs to a real person, company, or account requires an authoritative registry lookup, which this package never performs.
+
 ## Docs
 
 - Contribution guide: [CONTRIBUTING.md](./CONTRIBUTING.md)
