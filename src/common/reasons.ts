@@ -41,6 +41,10 @@ export const CARD_REASON_CODES = {
   INVALID_LENGTH_FOR_SCHEME: "INVALID_LENGTH_FOR_SCHEME",
 } as const;
 
+export const MERSIS_REASON_CODES = {
+  INVALID_EMBEDDED_VKN: "INVALID_EMBEDDED_VKN",
+} as const;
+
 export type CommonReasonCode =
   (typeof COMMON_REASON_CODES)[keyof typeof COMMON_REASON_CODES];
 
@@ -71,3 +75,7 @@ export type PlateReasonCode =
 export type CardReasonCode =
   | CommonReasonCode
   | (typeof CARD_REASON_CODES)[keyof typeof CARD_REASON_CODES];
+
+export type MersisReasonCode =
+  | CommonReasonCode
+  | (typeof MERSIS_REASON_CODES)[keyof typeof MERSIS_REASON_CODES];

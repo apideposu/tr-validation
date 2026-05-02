@@ -4,6 +4,7 @@ export {
   COMMON_REASON_CODES,
   IBAN_REASON_CODES,
   LOCATION_REASON_CODES,
+  MERSIS_REASON_CODES,
   PHONE_REASON_CODES,
   PLATE_REASON_CODES,
   TCKN_REASON_CODES,
@@ -14,6 +15,7 @@ export type {
   CommonReasonCode,
   IbanReasonCode,
   LocationReasonCode,
+  MersisReasonCode,
   PhoneReasonCode,
   PlateReasonCode,
   TcknReasonCode,
@@ -31,6 +33,8 @@ export type { NormalizeDistrictOptions, NormalizeDistrictResult } from "./locati
 export { normalizeProvince } from "./location/normalize-province";
 export type { NormalizeProvinceResult } from "./location/normalize-province";
 export type { DistrictRecord, ProvinceRecord } from "./location/types";
+export { validateMersis } from "./mersis/validate-mersis";
+export type { MersisValidationResult } from "./mersis/validate-mersis";
 export { normalizePhone } from "./phone/normalize-phone";
 export type { NormalizePhoneOptions, PhoneNormalizationResult, PhoneNumberType, PhoneOperator } from "./phone/normalize-phone";
 export { validatePlate } from "./plate/validate-plate";
