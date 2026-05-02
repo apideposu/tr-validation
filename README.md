@@ -21,7 +21,7 @@ Turkish documentation: [README.tr.md](./README.tr.md)
 - `possibleOriginalOperator` is a prefix-based hint only.
 - `normalizeProvince` and `normalizeDistrict` rely on bundled static data, not live government or address registries.
 - Ambiguous district names such as `Merkez` may require province context.
-- A successful result does not mean official verification.
+- A successful result does not mean official verification. See [Out of Scope](#out-of-scope-no-official-verification) for the full list of registries this package never calls.
 
 ## Installation
 
@@ -354,6 +354,22 @@ Currency-specific:
 - `getProvinces` and `getDistrictsByProvince` use bundled static JSON data.
 - `normalizeProvince` and `normalizeDistrict` use the bundled static dataset plus Turkish text normalization.
 - `validateIban` performs structural validation plus MOD-97 checksum for TR IBAN values only.
+
+## Out of Scope (No Official Verification)
+
+This package never performs:
+
+- NVI / e-Devlet / KPSPublic / KPSPublicV2 lookup
+- Person identity verification by name, surname, mother or father name, or birth year
+- ID document (TCKK / old wallet) serial number verification
+- BDDK or TCMB account-status lookup
+- EGM or KGM plate registry lookup
+- MERSIS or Trade Registry corporate-status lookup
+- GIB or e-Fatura active-taxpayer lookup
+- PTT or UAVT address registry lookup
+- Live currency exchange rate lookup
+
+A successful result from this package means the input is structurally valid and passes the published checksum or control algorithm. It does not mean the corresponding person, company, account, plate, address, or product exists in any official registry.
 
 ## Docs
 
