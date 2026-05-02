@@ -1,21 +1,21 @@
 # @apideposu/tr-validation
 
-`@apideposu/tr-validation` is a local-only validation and normalization toolkit for Turkiye-specific form data.
+`@apideposu/tr-validation`, Türkiye'ye özgü form verileri için local-only çalışan bir doğrulama ve normalizasyon paketidir.
 
-Turkish documentation: [README.tr.md](./README.tr.md)
+English documentation: [README.md](./README.md)
 
-## Local-Only and Privacy
+## Local-Only ve Gizlilik
 
-- The package runs completely inside the user's own project.
-- It does not call API Deposu backend.
-- It does not send data anywhere.
-- It does not perform registry lookup.
-- It does not perform official person, company, tax, or bank-account verification.
-- It provides structural validation, known control algorithms, and normalization only.
+- Paket tamamen kullanıcının kendi projesi içinde çalışır.
+- API Deposu backend'ine istek atmaz.
+- Veriyi dışarı göndermez.
+- Registry lookup yapmaz.
+- Resmi kişi, şirket, vergi veya banka hesabı doğrulaması yapmaz.
+- Sadece yapısal kontrol, bilinen kontrol algoritmaları ve normalizasyon sağlar.
 
-## Current Scope
+## Mevcut Kapsam
 
-Exports:
+Export edilen fonksiyonlar:
 
 - `validateTckn`
 - `validateVkn`
@@ -29,13 +29,13 @@ Exports:
 - `normalizeProvince`
 - `normalizeDistrict`
 
-## Installation
+## Kurulum
 
 ```bash
 npm install @apideposu/tr-validation
 ```
 
-## Usage
+## Kullanım
 
 ```ts
 import {
@@ -78,7 +78,7 @@ const {
 const result = normalizePhone("0532 123 45 67");
 ```
 
-## Example Results
+## Örnek Sonuçlar
 
 ```ts
 normalizePhone("0532 123 45 67");
@@ -134,20 +134,20 @@ normalizeDistrict("Merkez");
 // }
 ```
 
-## Notes
+## Notlar
 
-- `normalizePhone` uses `libphonenumber-js` locally and can return E.164, national format, country, type, and a prefix-based possible original operator hint.
-- The package does not claim current operator verification and does not consult portability records.
-- `getProvinces` and `getDistrictsByProvince` use bundled static JSON data.
-- `normalizeProvince` and `normalizeDistrict` use the bundled static dataset plus Turkish text normalization.
-- `validateIban` remains TR-only and performs structural validation plus MOD-97 checksum.
+- `normalizePhone`, `libphonenumber-js` paketini local olarak kullanır ve E.164, national format, country, type ve prefix tabanlı olası ilk operatör bilgisini döndürebilir.
+- Paket güncel operatör doğrulaması iddia etmez ve numara taşıma kayıtlarını sorgulamaz.
+- `getProvinces` ve `getDistrictsByProvince`, paketle gelen statik JSON verisini kullanır.
+- `normalizeProvince` ve `normalizeDistrict`, paket içindeki statik veri seti ile Türkçe text normalization yaklaşımını birlikte kullanır.
+- `validateIban` yalnızca `TR` IBAN için çalışır ve yapısal kontrol ile MOD-97 checksum uygular.
 
-## Docs
+## Dokümanlar
 
 - Release notes: [RELEASE_NOTES.md](./RELEASE_NOTES.md)
 - Roadmap: [ROADMAP.md](./ROADMAP.md)
 
-## Development
+## Geliştirme
 
 ```bash
 npm test
