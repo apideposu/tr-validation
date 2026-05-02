@@ -215,6 +215,34 @@ These would either dilute the package or create misleading expectations:
 - fraud scoring
 - AI-based risk scoring
 
+## Evaluating External References
+
+People will keep pointing at existing TR validation libraries on GitHub, npm, Packagist, and gists. Most of them are not worth a deep look. Use this matrix as a fast filter before spending time on any external reference.
+
+A reference deserves real evaluation only if **all four** of these are true:
+
+1. The repository is Node.js or TypeScript. PHP, C#, .NET, ASP.NET, Laravel, and standalone regex gists do not produce portable code for this package.
+2. The license is MIT, Apache-2.0, BSD, or ISC. GPL and AGPL create license-incompatibility risk for an MIT package and should be ruled out immediately.
+3. The repository has been actively maintained in the last twelve months. Stale, archived, abandoned, or single-author single-day repositories have no review value.
+4. It does something this package does not already cover, or covers a known case better than the current implementation.
+
+If any of the four answers is no, the reference is noise and should be closed without further discussion.
+
+If all four answers are yes, the reference may still not be merged, copied, or depended on. The most we should do is:
+
+- treat it as a black-box behavior comparison through input/output test fixtures
+- never paste code, identifiers, comments, or test data verbatim
+- never name the source in README, source code, commit messages, or release notes — to avoid implied endorsement and to avoid widening the license-contact surface
+
+Specifically out of bounds even when the four answers are yes:
+
+- any code that calls NVI, KPSPublic, KPSPublicV2, e-Devlet, or any registry endpoint
+- any code that disables TLS verification (for example `CURLOPT_SSL_VERIFYPEER => false` or its language equivalents)
+- any code shipped as a Laravel translation file, an ASP.NET error describer, or another framework-specific i18n bundle — those are not validators
+- any "official verification adapter" idea inside this package, regardless of how the source repository structures it
+
+This rule exists so that scope decisions stay based on the package philosophy in [Core Package Policy](#core-package-policy) and [Things We Should Not Chase](#things-we-should-not-chase), not on what other repositories happen to do.
+
 ## Definition of Progress
 
 The package is improving when:
