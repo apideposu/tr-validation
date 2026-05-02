@@ -53,6 +53,16 @@ export const BARCODE_REASON_CODES = {
   UNSUPPORTED_BARCODE_TYPE: "UNSUPPORTED_BARCODE_TYPE",
 } as const;
 
+export const NUMBER_REASON_CODES = {
+  INVALID_NUMBER_FORMAT: "INVALID_NUMBER_FORMAT",
+  AMBIGUOUS_GROUPING: "AMBIGUOUS_GROUPING",
+} as const;
+
+export const CURRENCY_REASON_CODES = {
+  INVALID_CURRENCY_FORMAT: "INVALID_CURRENCY_FORMAT",
+  UNKNOWN_CURRENCY: "UNKNOWN_CURRENCY",
+} as const;
+
 export type CommonReasonCode =
   (typeof COMMON_REASON_CODES)[keyof typeof COMMON_REASON_CODES];
 
@@ -95,3 +105,11 @@ export type PostalCodeReasonCode =
 export type BarcodeReasonCode =
   | CommonReasonCode
   | (typeof BARCODE_REASON_CODES)[keyof typeof BARCODE_REASON_CODES];
+
+export type NumberReasonCode =
+  | CommonReasonCode
+  | (typeof NUMBER_REASON_CODES)[keyof typeof NUMBER_REASON_CODES];
+
+export type CurrencyReasonCode =
+  | NumberReasonCode
+  | (typeof CURRENCY_REASON_CODES)[keyof typeof CURRENCY_REASON_CODES];

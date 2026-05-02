@@ -1,7 +1,8 @@
 export type ValidationMode =
   | "structural_validation"
   | "number_plan_parse"
-  | "static_dataset";
+  | "static_dataset"
+  | "format_parse";
 
 export type ValidationResult<
   TReason extends string,
