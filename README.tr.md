@@ -261,6 +261,7 @@ Location'a ozel:
 - Katki rehberi: [CONTRIBUTING.md](./CONTRIBUTING.md)
 - Dataset maintenance: [DATASETS.md](./DATASETS.md)
 - Ekosistem yol haritasi: [ECOSYSTEM_ROADMAP.md](./ECOSYSTEM_ROADMAP.md)
+- Ornekler: [examples/README.md](./examples/README.md)
 - Release notes: [RELEASE_NOTES.md](./RELEASE_NOTES.md)
 - Roadmap: [ROADMAP.md](./ROADMAP.md)
 

@@ -1,0 +1,12 @@
+{
+  "name": "tr-validation-node-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs",
+    "start:cjs": "node index.cjs"
+  },
+  "dependencies": {
+    "@apideposu/tr-validation": "file:../.."
+  }
+}
