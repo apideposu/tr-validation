@@ -1,5 +1,6 @@
 export type { ValidationResult } from "./common/result";
 export {
+  CARD_REASON_CODES,
   COMMON_REASON_CODES,
   IBAN_REASON_CODES,
   LOCATION_REASON_CODES,
@@ -9,6 +10,7 @@ export {
   VKN_REASON_CODES,
 } from "./common/reasons";
 export type {
+  CardReasonCode,
   CommonReasonCode,
   IbanReasonCode,
   LocationReasonCode,
@@ -17,6 +19,8 @@ export type {
   TcknReasonCode,
   VknReasonCode,
 } from "./common/reasons";
+export { validateCreditCard } from "./card/validate-card";
+export type { CardScheme, CardValidationResult } from "./card/validate-card";
 export { formatIban } from "./iban/format-iban";
 export { validateIban } from "./iban/validate-iban";
 export type { IbanValidationResult } from "./iban/validate-iban";

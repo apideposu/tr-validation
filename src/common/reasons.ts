@@ -36,6 +36,11 @@ export const PLATE_REASON_CODES = {
   INVALID_DIGIT_BLOCK: "INVALID_DIGIT_BLOCK",
 } as const;
 
+export const CARD_REASON_CODES = {
+  UNKNOWN_SCHEME: "UNKNOWN_SCHEME",
+  INVALID_LENGTH_FOR_SCHEME: "INVALID_LENGTH_FOR_SCHEME",
+} as const;
+
 export type CommonReasonCode =
   (typeof COMMON_REASON_CODES)[keyof typeof COMMON_REASON_CODES];
 
@@ -62,3 +67,7 @@ export type LocationReasonCode =
 export type PlateReasonCode =
   | CommonReasonCode
   | (typeof PLATE_REASON_CODES)[keyof typeof PLATE_REASON_CODES];
+
+export type CardReasonCode =
+  | CommonReasonCode
+  | (typeof CARD_REASON_CODES)[keyof typeof CARD_REASON_CODES];

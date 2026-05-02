@@ -1,0 +1,62 @@
+{
+  "version": "2026.05.02",
+  "schemes": [
+    {
+      "scheme": "visa",
+      "ranges": [{ "from": "4", "to": "4" }],
+      "lengths": [13, 16, 19]
+    },
+    {
+      "scheme": "mastercard",
+      "ranges": [
+        { "from": "51", "to": "55" },
+        { "from": "2221", "to": "2720" }
+      ],
+      "lengths": [16]
+    },
+    {
+      "scheme": "amex",
+      "ranges": [
+        { "from": "34", "to": "34" },
+        { "from": "37", "to": "37" }
+      ],
+      "lengths": [15]
+    },
+    {
+      "scheme": "troy",
+      "ranges": [
+        { "from": "9792", "to": "9792" },
+        { "from": "65", "to": "65" }
+      ],
+      "lengths": [16]
+    },
+    {
+      "scheme": "discover",
+      "ranges": [
+        { "from": "6011", "to": "6011" },
+        { "from": "644", "to": "649" },
+        { "from": "65", "to": "65" }
+      ],
+      "lengths": [16, 19]
+    },
+    {
+      "scheme": "jcb",
+      "ranges": [{ "from": "3528", "to": "3589" }],
+      "lengths": [16, 17, 18, 19]
+    },
+    {
+      "scheme": "diners",
+      "ranges": [
+        { "from": "300", "to": "305" },
+        { "from": "36", "to": "36" },
+        { "from": "38", "to": "39" }
+      ],
+      "lengths": [14, 16, 19]
+    },
+    {
+      "scheme": "unionpay",
+      "ranges": [{ "from": "62", "to": "62" }],
+      "lengths": [16, 17, 18, 19]
+    }
+  ]
+}
