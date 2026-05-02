@@ -62,5 +62,6 @@ export type { TcknValidationResult } from "./tckn/validate-tckn";
 export { normalizeTurkishText } from "./text/normalize-turkish";
 export type { NormalizedTurkishText } from "./text/normalize-turkish";
 export { slugifyTurkish } from "./text/slugify-turkish";
+export { titleCaseTurkish } from "./text/title-case-turkish";
 export { validateVkn } from "./vkn/validate-vkn";
 export type { VknValidationResult } from "./vkn/validate-vkn";
