@@ -22,6 +22,8 @@ Long term:
 - Address-focused helpers built on top of the existing province and district dataset
 - Additional normalization helpers for common Turkiye-specific form inputs
 - More fixture-based edge-case tests for phone, district ambiguity, and mixed-format input
+- Turkish-formatted date parser (DD.MM.YYYY, written month names)
+- Number-to-Turkish-words helper (e.g. invoice amount in words)
 
 ## Out of Scope
 

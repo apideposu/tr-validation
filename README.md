@@ -51,6 +51,16 @@ Exports:
 - `validateVkn`
 - `validateIban`
 - `formatIban`
+- `validatePlate`
+- `validateCreditCard`
+- `validateMersis`
+- `validatePostalCode`
+- `validateBarcode`
+- `parseTurkishNumber`
+- `parseTurkishCurrency`
+- `resolveIbanBank`
+- `listTrBanks`
+- `titleCaseTurkish`
 - `normalizeTurkishText`
 - `slugifyTurkish`
 - `normalizePhone`
@@ -84,6 +94,16 @@ Function summary:
 | `validateVkn(input)` | Structural validation for VKN | Format + known control algorithm only |
 | `validateIban(input)` | Structural validation for TR IBAN | TR-only, MOD-97 checksum |
 | `formatIban(input)` | Formats an IBAN in 4-character groups | Normalizes separators and casing |
+| `validatePlate(input)` | Structural validation for TR license plate | KGM block rules + province code cross-check |
+| `validateCreditCard(input)` | Luhn checksum + BIN-based scheme detection | Visa, Mastercard, Amex, Troy, Discover, JCB, Diners, UnionPay |
+| `validateMersis(input)` | Structural validation for 16-digit MERSIS number | Extracts the embedded VKN and reuses the VKN checksum |
+| `validatePostalCode(input)` | Structural validation for 5-digit TR postal code | First two digits cross-checked against the province dataset |
+| `validateBarcode(input)` | EAN-13 / EAN-8 checksum validation | Detects type and flags Turkish GS1 prefixes (868, 869) |
+| `parseTurkishNumber(input)` | Locale-aware numeric parser | Detects TR (`1.234,56`) vs EN (`1,234.56`) grouping; flags ambiguous `1.234` |
+| `parseTurkishCurrency(input)` | Currency-aware numeric parser | Recognizes `₺`, `$`, `€`, `£`, `TL`, ISO 4217 codes (TRY, USD, EUR, GBP, ...) |
+| `resolveIbanBank(input)` | Resolves a bank from a valid TR IBAN | Uses bundled BDDK code table, returns `null` for unknown codes |
+| `listTrBanks()` | Returns the bundled TR bank list | Defensive copy, suitable for dropdowns |
+| `titleCaseTurkish(input)` | Title-cases text with Turkish I/İ rules | Treats whitespace, `-`, `/` as word separators; keeps apostrophe-suffixed words single |
 | `normalizeTurkishText(input)` | Turkish-aware text normalization | Returns `trimmed`, `normalized`, `ascii`, `slug`, `searchKey` |
 | `slugifyTurkish(input)` | Slug helper for Turkish text | Consistent with `normalizeTurkishText(input).slug` |
 | `normalizePhone(input, options?)` | Local Turkish phone parsing and normalization | Adds `e164`, `national`, `country`, `type`, and prefix-based operator hint |
@@ -155,6 +175,37 @@ normalizePhone("0532 123 45 67");
 //   type: "mobile",
 //   possibleOriginalOperator: "Turkcell",
 //   operatorConfidence: "prefix_based"
+// }
+
+validatePlate("34 ABC 12");
+// {
+//   ok: true,
+//   input: "34 ABC 12",
+//   normalized: "34ABC12",
+//   reasons: [],
+//   mode: "structural_validation",
+//   localOnly: true,
+//   officialVerification: false,
+//   registryLookup: false,
+//   province: { code: "34", name: "İstanbul" },
+//   letters: "ABC",
+//   digits: "12",
+//   formatted: "34 ABC 12"
+// }
+
+validateCreditCard("4111 1111 1111 1111");
+// {
+//   ok: true,
+//   input: "4111 1111 1111 1111",
+//   normalized: "4111111111111111",
+//   reasons: [],
+//   mode: "structural_validation",
+//   localOnly: true,
+//   officialVerification: false,
+//   registryLookup: false,
+//   scheme: "visa",
+//   bin: "411111",
+//   last4: "1111"
 // }
 
 normalizeProvince("34");
@@ -235,6 +286,54 @@ Location-specific:
 | `PROVINCE_NOT_FOUND` | Province match could not be resolved |
 | `DISTRICT_NOT_FOUND` | District match could not be resolved |
 | `AMBIGUOUS_DISTRICT` | District name matches multiple provinces |
+
+Plate-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `INVALID_FORMAT` | Plate does not match the `<2-digit code><1-3 letters><1-4 digits>` structure |
+| `INVALID_PROVINCE_CODE` | First two digits are not a recognized province code (01-81) |
+| `INVALID_LETTER_BLOCK` | Letter block contains forbidden letters (Q/W/X) or wrong count |
+| `INVALID_DIGIT_BLOCK` | Digit count does not match the letter block (e.g. 1 letter requires 4 digits) |
+
+Card-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `UNKNOWN_SCHEME` | Card prefix does not match any known scheme (Visa, Mastercard, Amex, Troy, Discover, JCB, Diners, UnionPay) |
+| `INVALID_LENGTH_FOR_SCHEME` | Card length does not match the detected scheme's allowed lengths |
+
+MERSIS-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `INVALID_EMBEDDED_VKN` | The first 10 digits do not form a valid VKN (fail VKN checksum) |
+
+Postal-code-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `INVALID_PROVINCE_CODE` | First two digits are not a recognized province code (01-81) |
+
+Barcode-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `UNSUPPORTED_BARCODE_TYPE` | Length does not match any supported barcode type (currently EAN-13 and EAN-8) |
+
+Number-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `INVALID_NUMBER_FORMAT` | Input does not parse as a valid number under either locale |
+| `AMBIGUOUS_GROUPING` | Input like `1.234` could be either thousands grouping or a decimal — caller must disambiguate |
+
+Currency-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `INVALID_CURRENCY_FORMAT` | Multiple currency tokens or otherwise malformed currency input |
+| `UNKNOWN_CURRENCY` | Currency token is not in the bundled ISO 4217 / symbol set |
 
 ## Notes
 

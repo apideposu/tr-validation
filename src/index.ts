@@ -31,12 +31,12 @@ export type {
 } from "./common/reasons";
 export { validateBarcode } from "./barcode/validate-barcode";
 export type { BarcodeType, BarcodeValidationResult } from "./barcode/validate-barcode";
-export { validateCreditCard } from "./card/validate-card";
-export type { CardScheme, CardValidationResult } from "./card/validate-card";
 export { parseTurkishCurrency } from "./format/parse-turkish-currency";
 export type { CurrencyCode, TurkishCurrencyParseResult } from "./format/parse-turkish-currency";
 export { parseTurkishNumber } from "./format/parse-turkish-number";
 export type { TurkishNumberLocale, TurkishNumberParseResult } from "./format/parse-turkish-number";
+export { validateCreditCard } from "./card/validate-card";
+export type { CardScheme, CardValidationResult } from "./card/validate-card";
 export { formatIban } from "./iban/format-iban";
 export { listTrBanks, resolveIbanBank } from "./iban/resolve-iban-bank";
 export type { ResolveIbanBankResult, TrBankRecord, TrBankType } from "./iban/resolve-iban-bank";

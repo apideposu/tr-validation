@@ -1,6 +1,6 @@
 {
   "name": "@apideposu/tr-validation",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Local-only validation and normalization toolkit for Turkiye-specific form data.",
   "license": "MIT",
   "type": "module",
