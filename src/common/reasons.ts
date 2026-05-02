@@ -45,6 +45,10 @@ export const MERSIS_REASON_CODES = {
   INVALID_EMBEDDED_VKN: "INVALID_EMBEDDED_VKN",
 } as const;
 
+export const POSTAL_CODE_REASON_CODES = {
+  INVALID_PROVINCE_CODE: "INVALID_PROVINCE_CODE",
+} as const;
+
 export type CommonReasonCode =
   (typeof COMMON_REASON_CODES)[keyof typeof COMMON_REASON_CODES];
 
@@ -79,3 +83,7 @@ export type CardReasonCode =
 export type MersisReasonCode =
   | CommonReasonCode
   | (typeof MERSIS_REASON_CODES)[keyof typeof MERSIS_REASON_CODES];
+
+export type PostalCodeReasonCode =
+  | CommonReasonCode
+  | (typeof POSTAL_CODE_REASON_CODES)[keyof typeof POSTAL_CODE_REASON_CODES];
