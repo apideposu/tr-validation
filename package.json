@@ -1,7 +1,7 @@
 {
   "name": "@apideposu/tr-validation",
-  "version": "0.1.0",
-  "description": "Local-only validation and normalization toolkit for Türkiye-specific form data.",
+  "version": "0.2.0",
+  "description": "Local-only validation and normalization toolkit for Turkiye-specific form data.",
   "license": "MIT",
   "type": "module",
   "sideEffects": false,
@@ -41,6 +41,9 @@
     "validation",
     "normalization",
     "iban",
+    "phone",
+    "province",
+    "district",
     "tckn",
     "vkn",
     "privacy",
@@ -51,6 +54,9 @@
     "build": "tsup",
     "test": "vitest run",
     "test:watch": "vitest"
+  },
+  "dependencies": {
+    "libphonenumber-js": "^1.12.42"
   },
   "devDependencies": {
     "@types/node": "^22.15.17",

@@ -1,0 +1,732 @@
+[
+  {
+    "code": "01",
+    "name": "Adana",
+    "normalized": "adana",
+    "phoneAreaCodes": [
+      "322"
+    ],
+    "districtCount": 15
+  },
+  {
+    "code": "02",
+    "name": "Adıyaman",
+    "normalized": "adiyaman",
+    "phoneAreaCodes": [
+      "416"
+    ],
+    "districtCount": 9
+  },
+  {
+    "code": "03",
+    "name": "Afyonkarahisar",
+    "normalized": "afyonkarahisar",
+    "phoneAreaCodes": [
+      "272"
+    ],
+    "districtCount": 18
+  },
+  {
+    "code": "04",
+    "name": "Ağrı",
+    "normalized": "agri",
+    "phoneAreaCodes": [
+      "472"
+    ],
+    "districtCount": 8
+  },
+  {
+    "code": "05",
+    "name": "Amasya",
+    "normalized": "amasya",
+    "phoneAreaCodes": [
+      "358"
+    ],
+    "districtCount": 7
+  },
+  {
+    "code": "06",
+    "name": "Ankara",
+    "normalized": "ankara",
+    "phoneAreaCodes": [
+      "312"
+    ],
+    "districtCount": 25
+  },
+  {
+    "code": "07",
+    "name": "Antalya",
+    "normalized": "antalya",
+    "phoneAreaCodes": [
+      "242"
+    ],
+    "districtCount": 19
+  },
+  {
+    "code": "08",
+    "name": "Artvin",
+    "normalized": "artvin",
+    "phoneAreaCodes": [
+      "466"
+    ],
+    "districtCount": 9
+  },
+  {
+    "code": "09",
+    "name": "Aydın",
+    "normalized": "aydin",
+    "phoneAreaCodes": [
+      "256"
+    ],
+    "districtCount": 17
+  },
+  {
+    "code": "10",
+    "name": "Balıkesir",
+    "normalized": "balikesir",
+    "phoneAreaCodes": [
+      "266"
+    ],
+    "districtCount": 20
+  },
+  {
+    "code": "11",
+    "name": "Bilecik",
+    "normalized": "bilecik",
+    "phoneAreaCodes": [
+      "228"
+    ],
+    "districtCount": 8
+  },
+  {
+    "code": "12",
+    "name": "Bingöl",
+    "normalized": "bingol",
+    "phoneAreaCodes": [
+      "426"
+    ],
+    "districtCount": 8
+  },
+  {
+    "code": "13",
+    "name": "Bitlis",
+    "normalized": "bitlis",
+    "phoneAreaCodes": [
+      "434"
+    ],
+    "districtCount": 7
+  },
+  {
+    "code": "14",
+    "name": "Bolu",
+    "normalized": "bolu",
+    "phoneAreaCodes": [
+      "374"
+    ],
+    "districtCount": 9
+  },
+  {
+    "code": "15",
+    "name": "Burdur",
+    "normalized": "burdur",
+    "phoneAreaCodes": [
+      "248"
+    ],
+    "districtCount": 11
+  },
+  {
+    "code": "16",
+    "name": "Bursa",
+    "normalized": "bursa",
+    "phoneAreaCodes": [
+      "224"
+    ],
+    "districtCount": 17
+  },
+  {
+    "code": "17",
+    "name": "Çanakkale",
+    "normalized": "canakkale",
+    "phoneAreaCodes": [
+      "286"
+    ],
+    "districtCount": 12
+  },
+  {
+    "code": "18",
+    "name": "Çankırı",
+    "normalized": "cankiri",
+    "phoneAreaCodes": [
+      "376"
+    ],
+    "districtCount": 12
+  },
+  {
+    "code": "19",
+    "name": "Çorum",
+    "normalized": "corum",
+    "phoneAreaCodes": [
+      "364"
+    ],
+    "districtCount": 14
+  },
+  {
+    "code": "20",
+    "name": "Denizli",
+    "normalized": "denizli",
+    "phoneAreaCodes": [
+      "258"
+    ],
+    "districtCount": 19
+  },
+  {
+    "code": "21",
+    "name": "Diyarbakır",
+    "normalized": "diyarbakir",
+    "phoneAreaCodes": [
+      "412"
+    ],
+    "districtCount": 17
+  },
+  {
+    "code": "22",
+    "name": "Edirne",
+    "normalized": "edirne",
+    "phoneAreaCodes": [
+      "284"
+    ],
+    "districtCount": 9
+  },
+  {
+    "code": "23",
+    "name": "Elazığ",
+    "normalized": "elazig",
+    "phoneAreaCodes": [
+      "424"
+    ],
+    "districtCount": 11
+  },
+  {
+    "code": "24",
+    "name": "Erzincan",
+    "normalized": "erzincan",
+    "phoneAreaCodes": [
+      "446"
+    ],
+    "districtCount": 9
+  },
+  {
+    "code": "25",
+    "name": "Erzurum",
+    "normalized": "erzurum",
+    "phoneAreaCodes": [
+      "442"
+    ],
+    "districtCount": 20
+  },
+  {
+    "code": "26",
+    "name": "Eskişehir",
+    "normalized": "eskisehir",
+    "phoneAreaCodes": [
+      "222"
+    ],
+    "districtCount": 14
+  },
+  {
+    "code": "27",
+    "name": "Gaziantep",
+    "normalized": "gaziantep",
+    "phoneAreaCodes": [
+      "342"
+    ],
+    "districtCount": 9
+  },
+  {
+    "code": "28",
+    "name": "Giresun",
+    "normalized": "giresun",
+    "phoneAreaCodes": [
+      "454"
+    ],
+    "districtCount": 16
+  },
+  {
+    "code": "29",
+    "name": "Gümüşhane",
+    "normalized": "gumushane",
+    "phoneAreaCodes": [
+      "456"
+    ],
+    "districtCount": 6
+  },
+  {
+    "code": "30",
+    "name": "Hakkari",
+    "normalized": "hakkari",
+    "phoneAreaCodes": [
+      "438"
+    ],
+    "districtCount": 5
+  },
+  {
+    "code": "31",
+    "name": "Hatay",
+    "normalized": "hatay",
+    "phoneAreaCodes": [
+      "326"
+    ],
+    "districtCount": 15
+  },
+  {
+    "code": "32",
+    "name": "Isparta",
+    "normalized": "isparta",
+    "phoneAreaCodes": [
+      "246"
+    ],
+    "districtCount": 13
+  },
+  {
+    "code": "33",
+    "name": "Mersin",
+    "normalized": "mersin",
+    "phoneAreaCodes": [
+      "324"
+    ],
+    "districtCount": 13
+  },
+  {
+    "code": "34",
+    "name": "İstanbul",
+    "normalized": "istanbul",
+    "phoneAreaCodes": [
+      "212",
+      "216"
+    ],
+    "districtCount": 39
+  },
+  {
+    "code": "35",
+    "name": "İzmir",
+    "normalized": "izmir",
+    "phoneAreaCodes": [
+      "232"
+    ],
+    "districtCount": 30
+  },
+  {
+    "code": "36",
+    "name": "Kars",
+    "normalized": "kars",
+    "phoneAreaCodes": [
+      "474"
+    ],
+    "districtCount": 8
+  },
+  {
+    "code": "37",
+    "name": "Kastamonu",
+    "normalized": "kastamonu",
+    "phoneAreaCodes": [
+      "366"
+    ],
+    "districtCount": 20
+  },
+  {
+    "code": "38",
+    "name": "Kayseri",
+    "normalized": "kayseri",
+    "phoneAreaCodes": [
+      "352"
+    ],
+    "districtCount": 16
+  },
+  {
+    "code": "39",
+    "name": "Kırklareli",
+    "normalized": "kirklareli",
+    "phoneAreaCodes": [
+      "288"
+    ],
+    "districtCount": 8
+  },
+  {
+    "code": "40",
+    "name": "Kırşehir",
+    "normalized": "kirsehir",
+    "phoneAreaCodes": [
+      "386"
+    ],
+    "districtCount": 7
+  },
+  {
+    "code": "41",
+    "name": "Kocaeli",
+    "normalized": "kocaeli",
+    "phoneAreaCodes": [
+      "262"
+    ],
+    "districtCount": 12
+  },
+  {
+    "code": "42",
+    "name": "Konya",
+    "normalized": "konya",
+    "phoneAreaCodes": [
+      "332"
+    ],
+    "districtCount": 31
+  },
+  {
+    "code": "43",
+    "name": "Kütahya",
+    "normalized": "kutahya",
+    "phoneAreaCodes": [
+      "274"
+    ],
+    "districtCount": 13
+  },
+  {
+    "code": "44",
+    "name": "Malatya",
+    "normalized": "malatya",
+    "phoneAreaCodes": [
+      "422"
+    ],
+    "districtCount": 13
+  },
+  {
+    "code": "45",
+    "name": "Manisa",
+    "normalized": "manisa",
+    "phoneAreaCodes": [
+      "236"
+    ],
+    "districtCount": 17
+  },
+  {
+    "code": "46",
+    "name": "Kahramanmaraş",
+    "normalized": "kahramanmaras",
+    "phoneAreaCodes": [
+      "344"
+    ],
+    "districtCount": 11
+  },
+  {
+    "code": "47",
+    "name": "Mardin",
+    "normalized": "mardin",
+    "phoneAreaCodes": [
+      "482"
+    ],
+    "districtCount": 10
+  },
+  {
+    "code": "48",
+    "name": "Muğla",
+    "normalized": "mugla",
+    "phoneAreaCodes": [
+      "252"
+    ],
+    "districtCount": 13
+  },
+  {
+    "code": "49",
+    "name": "Muş",
+    "normalized": "mus",
+    "phoneAreaCodes": [
+      "436"
+    ],
+    "districtCount": 6
+  },
+  {
+    "code": "50",
+    "name": "Nevşehir",
+    "normalized": "nevsehir",
+    "phoneAreaCodes": [
+      "384"
+    ],
+    "districtCount": 8
+  },
+  {
+    "code": "51",
+    "name": "Niğde",
+    "normalized": "nigde",
+    "phoneAreaCodes": [
+      "388"
+    ],
+    "districtCount": 6
+  },
+  {
+    "code": "52",
+    "name": "Ordu",
+    "normalized": "ordu",
+    "phoneAreaCodes": [
+      "452"
+    ],
+    "districtCount": 19
+  },
+  {
+    "code": "53",
+    "name": "Rize",
+    "normalized": "rize",
+    "phoneAreaCodes": [
+      "464"
+    ],
+    "districtCount": 12
+  },
+  {
+    "code": "54",
+    "name": "Sakarya",
+    "normalized": "sakarya",
+    "phoneAreaCodes": [
+      "264"
+    ],
+    "districtCount": 16
+  },
+  {
+    "code": "55",
+    "name": "Samsun",
+    "normalized": "samsun",
+    "phoneAreaCodes": [
+      "362"
+    ],
+    "districtCount": 17
+  },
+  {
+    "code": "56",
+    "name": "Siirt",
+    "normalized": "siirt",
+    "phoneAreaCodes": [
+      "484"
+    ],
+    "districtCount": 7
+  },
+  {
+    "code": "57",
+    "name": "Sinop",
+    "normalized": "sinop",
+    "phoneAreaCodes": [
+      "368"
+    ],
+    "districtCount": 9
+  },
+  {
+    "code": "58",
+    "name": "Sivas",
+    "normalized": "sivas",
+    "phoneAreaCodes": [
+      "346"
+    ],
+    "districtCount": 17
+  },
+  {
+    "code": "59",
+    "name": "Tekirdağ",
+    "normalized": "tekirdag",
+    "phoneAreaCodes": [
+      "282"
+    ],
+    "districtCount": 11
+  },
+  {
+    "code": "60",
+    "name": "Tokat",
+    "normalized": "tokat",
+    "phoneAreaCodes": [
+      "356"
+    ],
+    "districtCount": 12
+  },
+  {
+    "code": "61",
+    "name": "Trabzon",
+    "normalized": "trabzon",
+    "phoneAreaCodes": [
+      "462"
+    ],
+    "districtCount": 18
+  },
+  {
+    "code": "62",
+    "name": "Tunceli",
+    "normalized": "tunceli",
+    "phoneAreaCodes": [
+      "428"
+    ],
+    "districtCount": 8
+  },
+  {
+    "code": "63",
+    "name": "Şanlıurfa",
+    "normalized": "sanliurfa",
+    "phoneAreaCodes": [
+      "414"
+    ],
+    "districtCount": 13
+  },
+  {
+    "code": "64",
+    "name": "Uşak",
+    "normalized": "usak",
+    "phoneAreaCodes": [
+      "276"
+    ],
+    "districtCount": 6
+  },
+  {
+    "code": "65",
+    "name": "Van",
+    "normalized": "van",
+    "phoneAreaCodes": [
+      "432"
+    ],
+    "districtCount": 13
+  },
+  {
+    "code": "66",
+    "name": "Yozgat",
+    "normalized": "yozgat",
+    "phoneAreaCodes": [
+      "354"
+    ],
+    "districtCount": 14
+  },
+  {
+    "code": "67",
+    "name": "Zonguldak",
+    "normalized": "zonguldak",
+    "phoneAreaCodes": [
+      "372"
+    ],
+    "districtCount": 8
+  },
+  {
+    "code": "68",
+    "name": "Aksaray",
+    "normalized": "aksaray",
+    "phoneAreaCodes": [
+      "382"
+    ],
+    "districtCount": 8
+  },
+  {
+    "code": "69",
+    "name": "Bayburt",
+    "normalized": "bayburt",
+    "phoneAreaCodes": [
+      "458"
+    ],
+    "districtCount": 3
+  },
+  {
+    "code": "70",
+    "name": "Karaman",
+    "normalized": "karaman",
+    "phoneAreaCodes": [
+      "338"
+    ],
+    "districtCount": 6
+  },
+  {
+    "code": "71",
+    "name": "Kırıkkale",
+    "normalized": "kirikkale",
+    "phoneAreaCodes": [
+      "318"
+    ],
+    "districtCount": 9
+  },
+  {
+    "code": "72",
+    "name": "Batman",
+    "normalized": "batman",
+    "phoneAreaCodes": [
+      "488"
+    ],
+    "districtCount": 6
+  },
+  {
+    "code": "73",
+    "name": "Şırnak",
+    "normalized": "sirnak",
+    "phoneAreaCodes": [
+      "486"
+    ],
+    "districtCount": 7
+  },
+  {
+    "code": "74",
+    "name": "Bartın",
+    "normalized": "bartin",
+    "phoneAreaCodes": [
+      "378"
+    ],
+    "districtCount": 4
+  },
+  {
+    "code": "75",
+    "name": "Ardahan",
+    "normalized": "ardahan",
+    "phoneAreaCodes": [
+      "478"
+    ],
+    "districtCount": 6
+  },
+  {
+    "code": "76",
+    "name": "Iğdır",
+    "normalized": "igdir",
+    "phoneAreaCodes": [
+      "476"
+    ],
+    "districtCount": 4
+  },
+  {
+    "code": "77",
+    "name": "Yalova",
+    "normalized": "yalova",
+    "phoneAreaCodes": [
+      "226"
+    ],
+    "districtCount": 6
+  },
+  {
+    "code": "78",
+    "name": "Karabük",
+    "normalized": "karabuk",
+    "phoneAreaCodes": [
+      "370"
+    ],
+    "districtCount": 6
+  },
+  {
+    "code": "79",
+    "name": "Kilis",
+    "normalized": "kilis",
+    "phoneAreaCodes": [
+      "348"
+    ],
+    "districtCount": 4
+  },
+  {
+    "code": "80",
+    "name": "Osmaniye",
+    "normalized": "osmaniye",
+    "phoneAreaCodes": [
+      "328"
+    ],
+    "districtCount": 7
+  },
+  {
+    "code": "81",
+    "name": "Düzce",
+    "normalized": "duzce",
+    "phoneAreaCodes": [
+      "380"
+    ],
+    "districtCount": 8
+  }
+]

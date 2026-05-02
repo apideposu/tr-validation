@@ -1,19 +1,19 @@
 # @apideposu/tr-validation
 
-`@apideposu/tr-validation`, Türkiye-specific form data icin local-only validation ve normalization paketidir.
+`@apideposu/tr-validation` is a local-only validation and normalization toolkit for Turkiye-specific form data.
 
-## Local-Only ve Privacy
+## Local-Only and Privacy
 
-- Paket tamamen local calisir.
-- API Deposu backend'ine istek atmaz.
-- Veri disari gonderilmez.
-- Resmi kisi, sirket, vergi veya banka hesabi dogrulamasi yapmaz.
-- Registry lookup yapmaz.
-- Sadece yapisal kontrol, bilinen kontrol algoritmalari ve normalizasyon saglar.
+- The package runs completely inside the user's own project.
+- It does not call API Deposu backend.
+- It does not send data anywhere.
+- It does not perform registry lookup.
+- It does not perform official person, company, tax, or bank-account verification.
+- It provides structural validation, known control algorithms, and normalization only.
 
-## Kapsam
+## Current Scope
 
-v1 export'lari:
+Exports:
 
 - `validateTckn`
 - `validateVkn`
@@ -21,18 +21,28 @@ v1 export'lari:
 - `formatIban`
 - `normalizeTurkishText`
 - `slugifyTurkish`
+- `normalizePhone`
+- `getProvinces`
+- `getDistrictsByProvince`
+- `normalizeProvince`
+- `normalizeDistrict`
 
-## Kurulum
+## Installation
 
 ```bash
 npm install @apideposu/tr-validation
 ```
 
-## Kullanim
+## Usage
 
 ```ts
 import {
   formatIban,
+  getDistrictsByProvince,
+  getProvinces,
+  normalizeDistrict,
+  normalizePhone,
+  normalizeProvince,
   normalizeTurkishText,
   slugifyTurkish,
   validateIban,
@@ -46,73 +56,91 @@ const iban = validateIban("tr62 0001 0012 3456 7890 1234 56");
 const formattedIban = formatIban("tr620001001234567890123456");
 const text = normalizeTurkishText("  ISTANBUL / Kadikoy  ");
 const slug = slugifyTurkish("Cekmekoy Belediyesi");
+
+const phone = normalizePhone("0532 123 45 67");
+const provinces = getProvinces();
+const districts = getDistrictsByProvince("34");
+const province = normalizeProvince("Istanbul");
+const district = normalizeDistrict("Kadikoy", { province: "34" });
 ```
 
-CommonJS kullanim:
+CommonJS:
 
 ```js
-const { validateIban, validateTckn } = require("@apideposu/tr-validation");
+const {
+  normalizePhone,
+  validateIban,
+  validateTckn,
+} = require("@apideposu/tr-validation");
 
-const result = validateTckn("10000000146");
+const result = normalizePhone("0532 123 45 67");
 ```
 
-## Ornek Sonuclar
+## Example Results
 
 ```ts
-validateTckn("10000000146");
+normalizePhone("0532 123 45 67");
 // {
 //   ok: true,
-//   input: "10000000146",
-//   normalized: "10000000146",
+//   input: "0532 123 45 67",
+//   normalized: "+905321234567",
 //   reasons: [],
-//   mode: "structural_validation",
-//   localOnly: true,
-//   officialVerification: false,
-//   registryLookup: false
-// }
-
-validateIban("GB82WEST12345698765432");
-// {
-//   ok: false,
-//   input: "GB82WEST12345698765432",
-//   normalized: "GB82WEST12345698765432",
-//   reasons: ["NON_TR_IBAN", "INVALID_LENGTH"],
-//   mode: "structural_validation",
+//   mode: "number_plan_parse",
 //   localOnly: true,
 //   officialVerification: false,
 //   registryLookup: false,
-//   country: null,
-//   formatted: null
+//   e164: "+905321234567",
+//   national: "0532 123 45 67",
+//   extension: null,
+//   country: "TR",
+//   type: "mobile",
+//   possibleOriginalOperator: "Turkcell",
+//   operatorConfidence: "prefix_based"
 // }
 
-normalizeTurkishText("  ISTANBUL / Kadikoy  ");
+normalizeProvince("34");
 // {
-//   input: "  ISTANBUL / Kadikoy  ",
-//   trimmed: "ISTANBUL / Kadikoy",
-//   normalized: "ıstanbul / kadikoy",
-//   ascii: "istanbul / kadikoy",
-//   slug: "istanbul-kadikoy",
-//   searchKey: "istanbul kadikoy"
+//   ok: true,
+//   input: "34",
+//   normalized: "istanbul",
+//   reasons: [],
+//   mode: "static_dataset",
+//   localOnly: true,
+//   officialVerification: false,
+//   registryLookup: false,
+//   province: {
+//     code: "34",
+//     name: "Istanbul",
+//     normalized: "istanbul",
+//     phoneAreaCodes: ["212", "216"],
+//     districtCount: 39
+//   }
+// }
+
+normalizeDistrict("Merkez");
+// {
+//   ok: false,
+//   input: "Merkez",
+//   normalized: "merkez",
+//   reasons: ["AMBIGUOUS_DISTRICT"],
+//   mode: "static_dataset",
+//   localOnly: true,
+//   officialVerification: false,
+//   registryLookup: false,
+//   district: null,
+//   province: null
 // }
 ```
 
-## Privacy ve Guvenlik
+## Notes
 
-- Paket tamamen local calisir.
-- API Deposu backend'ine istek atmaz.
-- Veri disari gonderilmez.
-- HTTP istegi, telemetry, analytics veya backend entegrasyonu yoktur.
-- Registry lookup yapmaz.
-- Bu paket resmi kisi, sirket, vergi veya banka hesabi dogrulamasi yapmaz.
+- `normalizePhone` uses `libphonenumber-js` locally and can return E.164, national format, country, type, and a prefix-based possible original operator hint.
+- The package does not claim current operator verification and does not consult portability records.
+- `getProvinces` and `getDistrictsByProvince` use bundled static JSON data.
+- `normalizeProvince` and `normalizeDistrict` use the bundled static dataset plus Turkish text normalization.
+- `validateIban` remains TR-only and performs structural validation plus MOD-97 checksum.
 
-## Notlar
-
-- `validateTckn` ve `validateVkn`, yaygin ayiraclari temizleyip bilinen kontrol algoritmasi ile yapisal kontrol yapar.
-- `validateIban`, yalnizca `TR` IBAN yapisini ve MOD-97 kontrolunu dogrular.
-- `formatIban`, girdiyi 4'lu bloklar halinde gorunur formata cevirir.
-- `normalizeTurkishText` ve `slugifyTurkish`, Turkce karakterleri ve bosluklari normalize eder.
-
-## Gelistirme
+## Development
 
 ```bash
 npm test

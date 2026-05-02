@@ -1,0 +1,6813 @@
+[
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Aladağ",
+    "normalized": "aladag"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Ceyhan",
+    "normalized": "ceyhan"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Çukurova",
+    "normalized": "cukurova"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Feke",
+    "normalized": "feke"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "İmamoğlu",
+    "normalized": "imamoglu"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Karaisalı",
+    "normalized": "karaisali"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Karataş",
+    "normalized": "karatas"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Kozan",
+    "normalized": "kozan"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Pozantı",
+    "normalized": "pozanti"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Saimbeyli",
+    "normalized": "saimbeyli"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Sarıçam",
+    "normalized": "saricam"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Seyhan",
+    "normalized": "seyhan"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Tufanbeyli",
+    "normalized": "tufanbeyli"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Yumurtalık",
+    "normalized": "yumurtalik"
+  },
+  {
+    "provinceCode": "01",
+    "provinceName": "Adana",
+    "provinceNormalized": "adana",
+    "name": "Yüreğir",
+    "normalized": "yuregir"
+  },
+  {
+    "provinceCode": "02",
+    "provinceName": "Adıyaman",
+    "provinceNormalized": "adiyaman",
+    "name": "Besni",
+    "normalized": "besni"
+  },
+  {
+    "provinceCode": "02",
+    "provinceName": "Adıyaman",
+    "provinceNormalized": "adiyaman",
+    "name": "Çelikhan",
+    "normalized": "celikhan"
+  },
+  {
+    "provinceCode": "02",
+    "provinceName": "Adıyaman",
+    "provinceNormalized": "adiyaman",
+    "name": "Gerger",
+    "normalized": "gerger"
+  },
+  {
+    "provinceCode": "02",
+    "provinceName": "Adıyaman",
+    "provinceNormalized": "adiyaman",
+    "name": "Gölbaşı",
+    "normalized": "golbasi"
+  },
+  {
+    "provinceCode": "02",
+    "provinceName": "Adıyaman",
+    "provinceNormalized": "adiyaman",
+    "name": "Kahta",
+    "normalized": "kahta"
+  },
+  {
+    "provinceCode": "02",
+    "provinceName": "Adıyaman",
+    "provinceNormalized": "adiyaman",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "02",
+    "provinceName": "Adıyaman",
+    "provinceNormalized": "adiyaman",
+    "name": "Samsat",
+    "normalized": "samsat"
+  },
+  {
+    "provinceCode": "02",
+    "provinceName": "Adıyaman",
+    "provinceNormalized": "adiyaman",
+    "name": "Sincik",
+    "normalized": "sincik"
+  },
+  {
+    "provinceCode": "02",
+    "provinceName": "Adıyaman",
+    "provinceNormalized": "adiyaman",
+    "name": "Tut",
+    "normalized": "tut"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Başmakçı",
+    "normalized": "basmakci"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Bayat",
+    "normalized": "bayat"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Bolvadin",
+    "normalized": "bolvadin"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Çay",
+    "normalized": "cay"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Çobanlar",
+    "normalized": "cobanlar"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Dazkırı",
+    "normalized": "dazkiri"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Dinar",
+    "normalized": "dinar"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Emirdağ",
+    "normalized": "emirdag"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Evciler",
+    "normalized": "evciler"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Hocalar",
+    "normalized": "hocalar"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "İhsaniye",
+    "normalized": "ihsaniye"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "İscehisar",
+    "normalized": "iscehisar"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Kızılören",
+    "normalized": "kiziloren"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Sandıklı",
+    "normalized": "sandikli"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Sinanpaşa",
+    "normalized": "sinanpasa"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Sultandağı",
+    "normalized": "sultandagi"
+  },
+  {
+    "provinceCode": "03",
+    "provinceName": "Afyonkarahisar",
+    "provinceNormalized": "afyonkarahisar",
+    "name": "Şuhut",
+    "normalized": "suhut"
+  },
+  {
+    "provinceCode": "04",
+    "provinceName": "Ağrı",
+    "provinceNormalized": "agri",
+    "name": "Diyadin",
+    "normalized": "diyadin"
+  },
+  {
+    "provinceCode": "04",
+    "provinceName": "Ağrı",
+    "provinceNormalized": "agri",
+    "name": "Doğubayazıt",
+    "normalized": "dogubayazit"
+  },
+  {
+    "provinceCode": "04",
+    "provinceName": "Ağrı",
+    "provinceNormalized": "agri",
+    "name": "Eleşkirt",
+    "normalized": "eleskirt"
+  },
+  {
+    "provinceCode": "04",
+    "provinceName": "Ağrı",
+    "provinceNormalized": "agri",
+    "name": "Hamur",
+    "normalized": "hamur"
+  },
+  {
+    "provinceCode": "04",
+    "provinceName": "Ağrı",
+    "provinceNormalized": "agri",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "04",
+    "provinceName": "Ağrı",
+    "provinceNormalized": "agri",
+    "name": "Patnos",
+    "normalized": "patnos"
+  },
+  {
+    "provinceCode": "04",
+    "provinceName": "Ağrı",
+    "provinceNormalized": "agri",
+    "name": "Taşlıçay",
+    "normalized": "taslicay"
+  },
+  {
+    "provinceCode": "04",
+    "provinceName": "Ağrı",
+    "provinceNormalized": "agri",
+    "name": "Tutak",
+    "normalized": "tutak"
+  },
+  {
+    "provinceCode": "05",
+    "provinceName": "Amasya",
+    "provinceNormalized": "amasya",
+    "name": "Göynücek",
+    "normalized": "goynucek"
+  },
+  {
+    "provinceCode": "05",
+    "provinceName": "Amasya",
+    "provinceNormalized": "amasya",
+    "name": "Gümüşhacıköy",
+    "normalized": "gumushacikoy"
+  },
+  {
+    "provinceCode": "05",
+    "provinceName": "Amasya",
+    "provinceNormalized": "amasya",
+    "name": "Hamamözü",
+    "normalized": "hamamozu"
+  },
+  {
+    "provinceCode": "05",
+    "provinceName": "Amasya",
+    "provinceNormalized": "amasya",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "05",
+    "provinceName": "Amasya",
+    "provinceNormalized": "amasya",
+    "name": "Merzifon",
+    "normalized": "merzifon"
+  },
+  {
+    "provinceCode": "05",
+    "provinceName": "Amasya",
+    "provinceNormalized": "amasya",
+    "name": "Suluova",
+    "normalized": "suluova"
+  },
+  {
+    "provinceCode": "05",
+    "provinceName": "Amasya",
+    "provinceNormalized": "amasya",
+    "name": "Taşova",
+    "normalized": "tasova"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Akyurt",
+    "normalized": "akyurt"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Altındağ",
+    "normalized": "altindag"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Ayaş",
+    "normalized": "ayas"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Bala",
+    "normalized": "bala"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Beypazarı",
+    "normalized": "beypazari"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Çamlıdere",
+    "normalized": "camlidere"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Çankaya",
+    "normalized": "cankaya"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Çubuk",
+    "normalized": "cubuk"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Elmadağ",
+    "normalized": "elmadag"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Etimesgut",
+    "normalized": "etimesgut"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Evren",
+    "normalized": "evren"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Gölbaşı",
+    "normalized": "golbasi"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Güdül",
+    "normalized": "gudul"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Haymana",
+    "normalized": "haymana"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Kahramankazan",
+    "normalized": "kahramankazan"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Kalecik",
+    "normalized": "kalecik"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Keçiören",
+    "normalized": "kecioren"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Kızılcahamam",
+    "normalized": "kizilcahamam"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Mamak",
+    "normalized": "mamak"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Nallıhan",
+    "normalized": "nallihan"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Polatlı",
+    "normalized": "polatli"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Pursaklar",
+    "normalized": "pursaklar"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Sincan",
+    "normalized": "sincan"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Şereflikoçhisar",
+    "normalized": "sereflikochisar"
+  },
+  {
+    "provinceCode": "06",
+    "provinceName": "Ankara",
+    "provinceNormalized": "ankara",
+    "name": "Yenimahalle",
+    "normalized": "yenimahalle"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Akseki",
+    "normalized": "akseki"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Aksu",
+    "normalized": "aksu"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Alanya",
+    "normalized": "alanya"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Demre",
+    "normalized": "demre"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Döşemealtı",
+    "normalized": "dosemealti"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Elmalı",
+    "normalized": "elmali"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Finike",
+    "normalized": "finike"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Gazipaşa",
+    "normalized": "gazipasa"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Gündoğmuş",
+    "normalized": "gundogmus"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "İbradı",
+    "normalized": "ibradi"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Kaş",
+    "normalized": "kas"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Kemer",
+    "normalized": "kemer"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Kepez",
+    "normalized": "kepez"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Konyaaltı",
+    "normalized": "konyaalti"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Korkuteli",
+    "normalized": "korkuteli"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Kumluca",
+    "normalized": "kumluca"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Manavgat",
+    "normalized": "manavgat"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Muratpaşa",
+    "normalized": "muratpasa"
+  },
+  {
+    "provinceCode": "07",
+    "provinceName": "Antalya",
+    "provinceNormalized": "antalya",
+    "name": "Serik",
+    "normalized": "serik"
+  },
+  {
+    "provinceCode": "08",
+    "provinceName": "Artvin",
+    "provinceNormalized": "artvin",
+    "name": "Ardanuç",
+    "normalized": "ardanuc"
+  },
+  {
+    "provinceCode": "08",
+    "provinceName": "Artvin",
+    "provinceNormalized": "artvin",
+    "name": "Arhavi",
+    "normalized": "arhavi"
+  },
+  {
+    "provinceCode": "08",
+    "provinceName": "Artvin",
+    "provinceNormalized": "artvin",
+    "name": "Borçka",
+    "normalized": "borcka"
+  },
+  {
+    "provinceCode": "08",
+    "provinceName": "Artvin",
+    "provinceNormalized": "artvin",
+    "name": "Hopa",
+    "normalized": "hopa"
+  },
+  {
+    "provinceCode": "08",
+    "provinceName": "Artvin",
+    "provinceNormalized": "artvin",
+    "name": "Kemalpaşa",
+    "normalized": "kemalpasa"
+  },
+  {
+    "provinceCode": "08",
+    "provinceName": "Artvin",
+    "provinceNormalized": "artvin",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "08",
+    "provinceName": "Artvin",
+    "provinceNormalized": "artvin",
+    "name": "Murgul",
+    "normalized": "murgul"
+  },
+  {
+    "provinceCode": "08",
+    "provinceName": "Artvin",
+    "provinceNormalized": "artvin",
+    "name": "Şavşat",
+    "normalized": "savsat"
+  },
+  {
+    "provinceCode": "08",
+    "provinceName": "Artvin",
+    "provinceNormalized": "artvin",
+    "name": "Yusufeli",
+    "normalized": "yusufeli"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Bozdoğan",
+    "normalized": "bozdogan"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Buharkent",
+    "normalized": "buharkent"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Çine",
+    "normalized": "cine"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Didim",
+    "normalized": "didim"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Efeler",
+    "normalized": "efeler"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Germencik",
+    "normalized": "germencik"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "İncirliova",
+    "normalized": "incirliova"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Karacasu",
+    "normalized": "karacasu"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Karpuzlu",
+    "normalized": "karpuzlu"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Koçarlı",
+    "normalized": "kocarli"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Köşk",
+    "normalized": "kosk"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Kuşadası",
+    "normalized": "kusadasi"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Kuyucak",
+    "normalized": "kuyucak"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Nazilli",
+    "normalized": "nazilli"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Söke",
+    "normalized": "soke"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Sultanhisar",
+    "normalized": "sultanhisar"
+  },
+  {
+    "provinceCode": "09",
+    "provinceName": "Aydın",
+    "provinceNormalized": "aydin",
+    "name": "Yenipazar",
+    "normalized": "yenipazar"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Altıeylül",
+    "normalized": "altieylul"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Ayvalık",
+    "normalized": "ayvalik"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Balya",
+    "normalized": "balya"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Bandırma",
+    "normalized": "bandirma"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Bigadiç",
+    "normalized": "bigadic"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Burhaniye",
+    "normalized": "burhaniye"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Dursunbey",
+    "normalized": "dursunbey"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Edremit",
+    "normalized": "edremit"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Erdek",
+    "normalized": "erdek"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Gömeç",
+    "normalized": "gomec"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Gönen",
+    "normalized": "gonen"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Havran",
+    "normalized": "havran"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "İvrindi",
+    "normalized": "ivrindi"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Karesi",
+    "normalized": "karesi"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Kepsut",
+    "normalized": "kepsut"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Manyas",
+    "normalized": "manyas"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Marmara",
+    "normalized": "marmara"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Savaştepe",
+    "normalized": "savastepe"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Sındırgı",
+    "normalized": "sindirgi"
+  },
+  {
+    "provinceCode": "10",
+    "provinceName": "Balıkesir",
+    "provinceNormalized": "balikesir",
+    "name": "Susurluk",
+    "normalized": "susurluk"
+  },
+  {
+    "provinceCode": "11",
+    "provinceName": "Bilecik",
+    "provinceNormalized": "bilecik",
+    "name": "Bozüyük",
+    "normalized": "bozuyuk"
+  },
+  {
+    "provinceCode": "11",
+    "provinceName": "Bilecik",
+    "provinceNormalized": "bilecik",
+    "name": "Gölpazarı",
+    "normalized": "golpazari"
+  },
+  {
+    "provinceCode": "11",
+    "provinceName": "Bilecik",
+    "provinceNormalized": "bilecik",
+    "name": "İnhisar",
+    "normalized": "inhisar"
+  },
+  {
+    "provinceCode": "11",
+    "provinceName": "Bilecik",
+    "provinceNormalized": "bilecik",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "11",
+    "provinceName": "Bilecik",
+    "provinceNormalized": "bilecik",
+    "name": "Osmaneli",
+    "normalized": "osmaneli"
+  },
+  {
+    "provinceCode": "11",
+    "provinceName": "Bilecik",
+    "provinceNormalized": "bilecik",
+    "name": "Pazaryeri",
+    "normalized": "pazaryeri"
+  },
+  {
+    "provinceCode": "11",
+    "provinceName": "Bilecik",
+    "provinceNormalized": "bilecik",
+    "name": "Söğüt",
+    "normalized": "sogut"
+  },
+  {
+    "provinceCode": "11",
+    "provinceName": "Bilecik",
+    "provinceNormalized": "bilecik",
+    "name": "Yenipazar",
+    "normalized": "yenipazar"
+  },
+  {
+    "provinceCode": "12",
+    "provinceName": "Bingöl",
+    "provinceNormalized": "bingol",
+    "name": "Adaklı",
+    "normalized": "adakli"
+  },
+  {
+    "provinceCode": "12",
+    "provinceName": "Bingöl",
+    "provinceNormalized": "bingol",
+    "name": "Genç",
+    "normalized": "genc"
+  },
+  {
+    "provinceCode": "12",
+    "provinceName": "Bingöl",
+    "provinceNormalized": "bingol",
+    "name": "Karlıova",
+    "normalized": "karliova"
+  },
+  {
+    "provinceCode": "12",
+    "provinceName": "Bingöl",
+    "provinceNormalized": "bingol",
+    "name": "Kiğı",
+    "normalized": "kigi"
+  },
+  {
+    "provinceCode": "12",
+    "provinceName": "Bingöl",
+    "provinceNormalized": "bingol",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "12",
+    "provinceName": "Bingöl",
+    "provinceNormalized": "bingol",
+    "name": "Solhan",
+    "normalized": "solhan"
+  },
+  {
+    "provinceCode": "12",
+    "provinceName": "Bingöl",
+    "provinceNormalized": "bingol",
+    "name": "Yayladere",
+    "normalized": "yayladere"
+  },
+  {
+    "provinceCode": "12",
+    "provinceName": "Bingöl",
+    "provinceNormalized": "bingol",
+    "name": "Yedisu",
+    "normalized": "yedisu"
+  },
+  {
+    "provinceCode": "13",
+    "provinceName": "Bitlis",
+    "provinceNormalized": "bitlis",
+    "name": "Adilcevaz",
+    "normalized": "adilcevaz"
+  },
+  {
+    "provinceCode": "13",
+    "provinceName": "Bitlis",
+    "provinceNormalized": "bitlis",
+    "name": "Ahlat",
+    "normalized": "ahlat"
+  },
+  {
+    "provinceCode": "13",
+    "provinceName": "Bitlis",
+    "provinceNormalized": "bitlis",
+    "name": "Güroymak",
+    "normalized": "guroymak"
+  },
+  {
+    "provinceCode": "13",
+    "provinceName": "Bitlis",
+    "provinceNormalized": "bitlis",
+    "name": "Hizan",
+    "normalized": "hizan"
+  },
+  {
+    "provinceCode": "13",
+    "provinceName": "Bitlis",
+    "provinceNormalized": "bitlis",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "13",
+    "provinceName": "Bitlis",
+    "provinceNormalized": "bitlis",
+    "name": "Mutki",
+    "normalized": "mutki"
+  },
+  {
+    "provinceCode": "13",
+    "provinceName": "Bitlis",
+    "provinceNormalized": "bitlis",
+    "name": "Tatvan",
+    "normalized": "tatvan"
+  },
+  {
+    "provinceCode": "14",
+    "provinceName": "Bolu",
+    "provinceNormalized": "bolu",
+    "name": "Dörtdivan",
+    "normalized": "dortdivan"
+  },
+  {
+    "provinceCode": "14",
+    "provinceName": "Bolu",
+    "provinceNormalized": "bolu",
+    "name": "Gerede",
+    "normalized": "gerede"
+  },
+  {
+    "provinceCode": "14",
+    "provinceName": "Bolu",
+    "provinceNormalized": "bolu",
+    "name": "Göynük",
+    "normalized": "goynuk"
+  },
+  {
+    "provinceCode": "14",
+    "provinceName": "Bolu",
+    "provinceNormalized": "bolu",
+    "name": "Kıbrıscık",
+    "normalized": "kibriscik"
+  },
+  {
+    "provinceCode": "14",
+    "provinceName": "Bolu",
+    "provinceNormalized": "bolu",
+    "name": "Mengen",
+    "normalized": "mengen"
+  },
+  {
+    "provinceCode": "14",
+    "provinceName": "Bolu",
+    "provinceNormalized": "bolu",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "14",
+    "provinceName": "Bolu",
+    "provinceNormalized": "bolu",
+    "name": "Mudurnu",
+    "normalized": "mudurnu"
+  },
+  {
+    "provinceCode": "14",
+    "provinceName": "Bolu",
+    "provinceNormalized": "bolu",
+    "name": "Seben",
+    "normalized": "seben"
+  },
+  {
+    "provinceCode": "14",
+    "provinceName": "Bolu",
+    "provinceNormalized": "bolu",
+    "name": "Yeniçağa",
+    "normalized": "yenicaga"
+  },
+  {
+    "provinceCode": "15",
+    "provinceName": "Burdur",
+    "provinceNormalized": "burdur",
+    "name": "Ağlasun",
+    "normalized": "aglasun"
+  },
+  {
+    "provinceCode": "15",
+    "provinceName": "Burdur",
+    "provinceNormalized": "burdur",
+    "name": "Altınyayla",
+    "normalized": "altinyayla"
+  },
+  {
+    "provinceCode": "15",
+    "provinceName": "Burdur",
+    "provinceNormalized": "burdur",
+    "name": "Bucak",
+    "normalized": "bucak"
+  },
+  {
+    "provinceCode": "15",
+    "provinceName": "Burdur",
+    "provinceNormalized": "burdur",
+    "name": "Çavdır",
+    "normalized": "cavdir"
+  },
+  {
+    "provinceCode": "15",
+    "provinceName": "Burdur",
+    "provinceNormalized": "burdur",
+    "name": "Çeltikçi",
+    "normalized": "celtikci"
+  },
+  {
+    "provinceCode": "15",
+    "provinceName": "Burdur",
+    "provinceNormalized": "burdur",
+    "name": "Gölhisar",
+    "normalized": "golhisar"
+  },
+  {
+    "provinceCode": "15",
+    "provinceName": "Burdur",
+    "provinceNormalized": "burdur",
+    "name": "Karamanlı",
+    "normalized": "karamanli"
+  },
+  {
+    "provinceCode": "15",
+    "provinceName": "Burdur",
+    "provinceNormalized": "burdur",
+    "name": "Kemer",
+    "normalized": "kemer"
+  },
+  {
+    "provinceCode": "15",
+    "provinceName": "Burdur",
+    "provinceNormalized": "burdur",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "15",
+    "provinceName": "Burdur",
+    "provinceNormalized": "burdur",
+    "name": "Tefenni",
+    "normalized": "tefenni"
+  },
+  {
+    "provinceCode": "15",
+    "provinceName": "Burdur",
+    "provinceNormalized": "burdur",
+    "name": "Yeşilova",
+    "normalized": "yesilova"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Büyükorhan",
+    "normalized": "buyukorhan"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Gemlik",
+    "normalized": "gemlik"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Gürsu",
+    "normalized": "gursu"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Harmancık",
+    "normalized": "harmancik"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "İnegöl",
+    "normalized": "inegol"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "İznik",
+    "normalized": "iznik"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Karacabey",
+    "normalized": "karacabey"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Keles",
+    "normalized": "keles"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Kestel",
+    "normalized": "kestel"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Mudanya",
+    "normalized": "mudanya"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Mustafakemalpaşa",
+    "normalized": "mustafakemalpasa"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Nilüfer",
+    "normalized": "nilufer"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Orhaneli",
+    "normalized": "orhaneli"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Orhangazi",
+    "normalized": "orhangazi"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Osmangazi",
+    "normalized": "osmangazi"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Yenişehir",
+    "normalized": "yenisehir"
+  },
+  {
+    "provinceCode": "16",
+    "provinceName": "Bursa",
+    "provinceNormalized": "bursa",
+    "name": "Yıldırım",
+    "normalized": "yildirim"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Ayvacık",
+    "normalized": "ayvacik"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Bayramiç",
+    "normalized": "bayramic"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Biga",
+    "normalized": "biga"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Bozcaada",
+    "normalized": "bozcaada"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Çan",
+    "normalized": "can"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Eceabat",
+    "normalized": "eceabat"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Ezine",
+    "normalized": "ezine"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Gelibolu",
+    "normalized": "gelibolu"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Gökçeada",
+    "normalized": "gokceada"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Lapseki",
+    "normalized": "lapseki"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "17",
+    "provinceName": "Çanakkale",
+    "provinceNormalized": "canakkale",
+    "name": "Yenice",
+    "normalized": "yenice"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Atkaracalar",
+    "normalized": "atkaracalar"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Bayramören",
+    "normalized": "bayramoren"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Çerkeş",
+    "normalized": "cerkes"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Eldivan",
+    "normalized": "eldivan"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Ilgaz",
+    "normalized": "ilgaz"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Kızılırmak",
+    "normalized": "kizilirmak"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Korgun",
+    "normalized": "korgun"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Kurşunlu",
+    "normalized": "kursunlu"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Orta",
+    "normalized": "orta"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Şabanözü",
+    "normalized": "sabanozu"
+  },
+  {
+    "provinceCode": "18",
+    "provinceName": "Çankırı",
+    "provinceNormalized": "cankiri",
+    "name": "Yapraklı",
+    "normalized": "yaprakli"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Alaca",
+    "normalized": "alaca"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Bayat",
+    "normalized": "bayat"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Boğazkale",
+    "normalized": "bogazkale"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Dodurga",
+    "normalized": "dodurga"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "İskilip",
+    "normalized": "iskilip"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Kargı",
+    "normalized": "kargi"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Laçin",
+    "normalized": "lacin"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Mecitözü",
+    "normalized": "mecitozu"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Oğuzlar",
+    "normalized": "oguzlar"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Ortaköy",
+    "normalized": "ortakoy"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Osmancık",
+    "normalized": "osmancik"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Sungurlu",
+    "normalized": "sungurlu"
+  },
+  {
+    "provinceCode": "19",
+    "provinceName": "Çorum",
+    "provinceNormalized": "corum",
+    "name": "Uğurludağ",
+    "normalized": "ugurludag"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Acıpayam",
+    "normalized": "acipayam"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Babadağ",
+    "normalized": "babadag"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Baklan",
+    "normalized": "baklan"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Bekilli",
+    "normalized": "bekilli"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Beyağaç",
+    "normalized": "beyagac"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Bozkurt",
+    "normalized": "bozkurt"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Buldan",
+    "normalized": "buldan"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Çal",
+    "normalized": "cal"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Çameli",
+    "normalized": "cameli"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Çardak",
+    "normalized": "cardak"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Çivril",
+    "normalized": "civril"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Güney",
+    "normalized": "guney"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Honaz",
+    "normalized": "honaz"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Kale",
+    "normalized": "kale"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Merkezefendi",
+    "normalized": "merkezefendi"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Pamukkale",
+    "normalized": "pamukkale"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Sarayköy",
+    "normalized": "saraykoy"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Serinhisar",
+    "normalized": "serinhisar"
+  },
+  {
+    "provinceCode": "20",
+    "provinceName": "Denizli",
+    "provinceNormalized": "denizli",
+    "name": "Tavas",
+    "normalized": "tavas"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Bağlar",
+    "normalized": "baglar"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Bismil",
+    "normalized": "bismil"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Çermik",
+    "normalized": "cermik"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Çınar",
+    "normalized": "cinar"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Çüngüş",
+    "normalized": "cungus"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Dicle",
+    "normalized": "dicle"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Eğil",
+    "normalized": "egil"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Ergani",
+    "normalized": "ergani"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Hani",
+    "normalized": "hani"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Hazro",
+    "normalized": "hazro"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Kayapınar",
+    "normalized": "kayapinar"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Kocaköy",
+    "normalized": "kocakoy"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Kulp",
+    "normalized": "kulp"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Lice",
+    "normalized": "lice"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Silvan",
+    "normalized": "silvan"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Sur",
+    "normalized": "sur"
+  },
+  {
+    "provinceCode": "21",
+    "provinceName": "Diyarbakır",
+    "provinceNormalized": "diyarbakir",
+    "name": "Yenişehir",
+    "normalized": "yenisehir"
+  },
+  {
+    "provinceCode": "22",
+    "provinceName": "Edirne",
+    "provinceNormalized": "edirne",
+    "name": "Enez",
+    "normalized": "enez"
+  },
+  {
+    "provinceCode": "22",
+    "provinceName": "Edirne",
+    "provinceNormalized": "edirne",
+    "name": "Havsa",
+    "normalized": "havsa"
+  },
+  {
+    "provinceCode": "22",
+    "provinceName": "Edirne",
+    "provinceNormalized": "edirne",
+    "name": "İpsala",
+    "normalized": "ipsala"
+  },
+  {
+    "provinceCode": "22",
+    "provinceName": "Edirne",
+    "provinceNormalized": "edirne",
+    "name": "Keşan",
+    "normalized": "kesan"
+  },
+  {
+    "provinceCode": "22",
+    "provinceName": "Edirne",
+    "provinceNormalized": "edirne",
+    "name": "Lalapaşa",
+    "normalized": "lalapasa"
+  },
+  {
+    "provinceCode": "22",
+    "provinceName": "Edirne",
+    "provinceNormalized": "edirne",
+    "name": "Meriç",
+    "normalized": "meric"
+  },
+  {
+    "provinceCode": "22",
+    "provinceName": "Edirne",
+    "provinceNormalized": "edirne",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "22",
+    "provinceName": "Edirne",
+    "provinceNormalized": "edirne",
+    "name": "Süloğlu",
+    "normalized": "suloglu"
+  },
+  {
+    "provinceCode": "22",
+    "provinceName": "Edirne",
+    "provinceNormalized": "edirne",
+    "name": "Uzunköprü",
+    "normalized": "uzunkopru"
+  },
+  {
+    "provinceCode": "23",
+    "provinceName": "Elazığ",
+    "provinceNormalized": "elazig",
+    "name": "Ağın",
+    "normalized": "agin"
+  },
+  {
+    "provinceCode": "23",
+    "provinceName": "Elazığ",
+    "provinceNormalized": "elazig",
+    "name": "Alacakaya",
+    "normalized": "alacakaya"
+  },
+  {
+    "provinceCode": "23",
+    "provinceName": "Elazığ",
+    "provinceNormalized": "elazig",
+    "name": "Arıcak",
+    "normalized": "aricak"
+  },
+  {
+    "provinceCode": "23",
+    "provinceName": "Elazığ",
+    "provinceNormalized": "elazig",
+    "name": "Baskil",
+    "normalized": "baskil"
+  },
+  {
+    "provinceCode": "23",
+    "provinceName": "Elazığ",
+    "provinceNormalized": "elazig",
+    "name": "Karakoçan",
+    "normalized": "karakocan"
+  },
+  {
+    "provinceCode": "23",
+    "provinceName": "Elazığ",
+    "provinceNormalized": "elazig",
+    "name": "Keban",
+    "normalized": "keban"
+  },
+  {
+    "provinceCode": "23",
+    "provinceName": "Elazığ",
+    "provinceNormalized": "elazig",
+    "name": "Kovancılar",
+    "normalized": "kovancilar"
+  },
+  {
+    "provinceCode": "23",
+    "provinceName": "Elazığ",
+    "provinceNormalized": "elazig",
+    "name": "Maden",
+    "normalized": "maden"
+  },
+  {
+    "provinceCode": "23",
+    "provinceName": "Elazığ",
+    "provinceNormalized": "elazig",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "23",
+    "provinceName": "Elazığ",
+    "provinceNormalized": "elazig",
+    "name": "Palu",
+    "normalized": "palu"
+  },
+  {
+    "provinceCode": "23",
+    "provinceName": "Elazığ",
+    "provinceNormalized": "elazig",
+    "name": "Sivrice",
+    "normalized": "sivrice"
+  },
+  {
+    "provinceCode": "24",
+    "provinceName": "Erzincan",
+    "provinceNormalized": "erzincan",
+    "name": "Çayırlı",
+    "normalized": "cayirli"
+  },
+  {
+    "provinceCode": "24",
+    "provinceName": "Erzincan",
+    "provinceNormalized": "erzincan",
+    "name": "İliç",
+    "normalized": "ilic"
+  },
+  {
+    "provinceCode": "24",
+    "provinceName": "Erzincan",
+    "provinceNormalized": "erzincan",
+    "name": "Kemah",
+    "normalized": "kemah"
+  },
+  {
+    "provinceCode": "24",
+    "provinceName": "Erzincan",
+    "provinceNormalized": "erzincan",
+    "name": "Kemaliye",
+    "normalized": "kemaliye"
+  },
+  {
+    "provinceCode": "24",
+    "provinceName": "Erzincan",
+    "provinceNormalized": "erzincan",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "24",
+    "provinceName": "Erzincan",
+    "provinceNormalized": "erzincan",
+    "name": "Otlukbeli",
+    "normalized": "otlukbeli"
+  },
+  {
+    "provinceCode": "24",
+    "provinceName": "Erzincan",
+    "provinceNormalized": "erzincan",
+    "name": "Refahiye",
+    "normalized": "refahiye"
+  },
+  {
+    "provinceCode": "24",
+    "provinceName": "Erzincan",
+    "provinceNormalized": "erzincan",
+    "name": "Tercan",
+    "normalized": "tercan"
+  },
+  {
+    "provinceCode": "24",
+    "provinceName": "Erzincan",
+    "provinceNormalized": "erzincan",
+    "name": "Üzümlü",
+    "normalized": "uzumlu"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Aşkale",
+    "normalized": "askale"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Aziziye",
+    "normalized": "aziziye"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Çat",
+    "normalized": "cat"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Hınıs",
+    "normalized": "hinis"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Horasan",
+    "normalized": "horasan"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "İspir",
+    "normalized": "ispir"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Karaçoban",
+    "normalized": "karacoban"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Karayazı",
+    "normalized": "karayazi"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Köprüköy",
+    "normalized": "koprukoy"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Narman",
+    "normalized": "narman"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Oltu",
+    "normalized": "oltu"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Olur",
+    "normalized": "olur"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Palandöken",
+    "normalized": "palandoken"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Pasinler",
+    "normalized": "pasinler"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Pazaryolu",
+    "normalized": "pazaryolu"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Şenkaya",
+    "normalized": "senkaya"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Tekman",
+    "normalized": "tekman"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Tortum",
+    "normalized": "tortum"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Uzundere",
+    "normalized": "uzundere"
+  },
+  {
+    "provinceCode": "25",
+    "provinceName": "Erzurum",
+    "provinceNormalized": "erzurum",
+    "name": "Yakutiye",
+    "normalized": "yakutiye"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Alpu",
+    "normalized": "alpu"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Beylikova",
+    "normalized": "beylikova"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Çifteler",
+    "normalized": "cifteler"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Günyüzü",
+    "normalized": "gunyuzu"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Han",
+    "normalized": "han"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "İnönü",
+    "normalized": "inonu"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Mahmudiye",
+    "normalized": "mahmudiye"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Mihalgazi",
+    "normalized": "mihalgazi"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Mihalıççık",
+    "normalized": "mihaliccik"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Odunpazarı",
+    "normalized": "odunpazari"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Sarıcakaya",
+    "normalized": "saricakaya"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Seyitgazi",
+    "normalized": "seyitgazi"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Sivrihisar",
+    "normalized": "sivrihisar"
+  },
+  {
+    "provinceCode": "26",
+    "provinceName": "Eskişehir",
+    "provinceNormalized": "eskisehir",
+    "name": "Tepebaşı",
+    "normalized": "tepebasi"
+  },
+  {
+    "provinceCode": "27",
+    "provinceName": "Gaziantep",
+    "provinceNormalized": "gaziantep",
+    "name": "Araban",
+    "normalized": "araban"
+  },
+  {
+    "provinceCode": "27",
+    "provinceName": "Gaziantep",
+    "provinceNormalized": "gaziantep",
+    "name": "İslahiye",
+    "normalized": "islahiye"
+  },
+  {
+    "provinceCode": "27",
+    "provinceName": "Gaziantep",
+    "provinceNormalized": "gaziantep",
+    "name": "Karkamış",
+    "normalized": "karkamis"
+  },
+  {
+    "provinceCode": "27",
+    "provinceName": "Gaziantep",
+    "provinceNormalized": "gaziantep",
+    "name": "Nizip",
+    "normalized": "nizip"
+  },
+  {
+    "provinceCode": "27",
+    "provinceName": "Gaziantep",
+    "provinceNormalized": "gaziantep",
+    "name": "Nurdağı",
+    "normalized": "nurdagi"
+  },
+  {
+    "provinceCode": "27",
+    "provinceName": "Gaziantep",
+    "provinceNormalized": "gaziantep",
+    "name": "Oğuzeli",
+    "normalized": "oguzeli"
+  },
+  {
+    "provinceCode": "27",
+    "provinceName": "Gaziantep",
+    "provinceNormalized": "gaziantep",
+    "name": "Şahinbey",
+    "normalized": "sahinbey"
+  },
+  {
+    "provinceCode": "27",
+    "provinceName": "Gaziantep",
+    "provinceNormalized": "gaziantep",
+    "name": "Şehitkamil",
+    "normalized": "sehitkamil"
+  },
+  {
+    "provinceCode": "27",
+    "provinceName": "Gaziantep",
+    "provinceNormalized": "gaziantep",
+    "name": "Yavuzeli",
+    "normalized": "yavuzeli"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Alucra",
+    "normalized": "alucra"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Bulancak",
+    "normalized": "bulancak"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Çamoluk",
+    "normalized": "camoluk"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Çanakçı",
+    "normalized": "canakci"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Dereli",
+    "normalized": "dereli"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Doğankent",
+    "normalized": "dogankent"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Espiye",
+    "normalized": "espiye"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Eynesil",
+    "normalized": "eynesil"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Görele",
+    "normalized": "gorele"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Güce",
+    "normalized": "guce"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Keşap",
+    "normalized": "kesap"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Piraziz",
+    "normalized": "piraziz"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Şebinkarahisar",
+    "normalized": "sebinkarahisar"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Tirebolu",
+    "normalized": "tirebolu"
+  },
+  {
+    "provinceCode": "28",
+    "provinceName": "Giresun",
+    "provinceNormalized": "giresun",
+    "name": "Yağlıdere",
+    "normalized": "yaglidere"
+  },
+  {
+    "provinceCode": "29",
+    "provinceName": "Gümüşhane",
+    "provinceNormalized": "gumushane",
+    "name": "Kelkit",
+    "normalized": "kelkit"
+  },
+  {
+    "provinceCode": "29",
+    "provinceName": "Gümüşhane",
+    "provinceNormalized": "gumushane",
+    "name": "Köse",
+    "normalized": "kose"
+  },
+  {
+    "provinceCode": "29",
+    "provinceName": "Gümüşhane",
+    "provinceNormalized": "gumushane",
+    "name": "Kürtün",
+    "normalized": "kurtun"
+  },
+  {
+    "provinceCode": "29",
+    "provinceName": "Gümüşhane",
+    "provinceNormalized": "gumushane",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "29",
+    "provinceName": "Gümüşhane",
+    "provinceNormalized": "gumushane",
+    "name": "Şiran",
+    "normalized": "siran"
+  },
+  {
+    "provinceCode": "29",
+    "provinceName": "Gümüşhane",
+    "provinceNormalized": "gumushane",
+    "name": "Torul",
+    "normalized": "torul"
+  },
+  {
+    "provinceCode": "30",
+    "provinceName": "Hakkari",
+    "provinceNormalized": "hakkari",
+    "name": "Çukurca",
+    "normalized": "cukurca"
+  },
+  {
+    "provinceCode": "30",
+    "provinceName": "Hakkari",
+    "provinceNormalized": "hakkari",
+    "name": "Derecik",
+    "normalized": "derecik"
+  },
+  {
+    "provinceCode": "30",
+    "provinceName": "Hakkari",
+    "provinceNormalized": "hakkari",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "30",
+    "provinceName": "Hakkari",
+    "provinceNormalized": "hakkari",
+    "name": "Şemdinli",
+    "normalized": "semdinli"
+  },
+  {
+    "provinceCode": "30",
+    "provinceName": "Hakkari",
+    "provinceNormalized": "hakkari",
+    "name": "Yüksekova",
+    "normalized": "yuksekova"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Altınözü",
+    "normalized": "altinozu"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Antakya",
+    "normalized": "antakya"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Arsuz",
+    "normalized": "arsuz"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Belen",
+    "normalized": "belen"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Defne",
+    "normalized": "defne"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Dörtyol",
+    "normalized": "dortyol"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Erzin",
+    "normalized": "erzin"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Hassa",
+    "normalized": "hassa"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "İskenderun",
+    "normalized": "iskenderun"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Kırıkhan",
+    "normalized": "kirikhan"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Kumlu",
+    "normalized": "kumlu"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Payas",
+    "normalized": "payas"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Reyhanlı",
+    "normalized": "reyhanli"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Samandağ",
+    "normalized": "samandag"
+  },
+  {
+    "provinceCode": "31",
+    "provinceName": "Hatay",
+    "provinceNormalized": "hatay",
+    "name": "Yayladağı",
+    "normalized": "yayladagi"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Aksu",
+    "normalized": "aksu"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Atabey",
+    "normalized": "atabey"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Eğirdir",
+    "normalized": "egirdir"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Gelendost",
+    "normalized": "gelendost"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Gönen",
+    "normalized": "gonen"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Keçiborlu",
+    "normalized": "keciborlu"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Senirkent",
+    "normalized": "senirkent"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Sütçüler",
+    "normalized": "sutculer"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Şarkikaraağaç",
+    "normalized": "sarkikaraagac"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Uluborlu",
+    "normalized": "uluborlu"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Yalvaç",
+    "normalized": "yalvac"
+  },
+  {
+    "provinceCode": "32",
+    "provinceName": "Isparta",
+    "provinceNormalized": "isparta",
+    "name": "Yenişarbademli",
+    "normalized": "yenisarbademli"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Akdeniz",
+    "normalized": "akdeniz"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Anamur",
+    "normalized": "anamur"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Aydıncık",
+    "normalized": "aydincik"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Bozyazı",
+    "normalized": "bozyazi"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Çamlıyayla",
+    "normalized": "camliyayla"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Erdemli",
+    "normalized": "erdemli"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Gülnar",
+    "normalized": "gulnar"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Mezitli",
+    "normalized": "mezitli"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Mut",
+    "normalized": "mut"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Silifke",
+    "normalized": "silifke"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Tarsus",
+    "normalized": "tarsus"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Toroslar",
+    "normalized": "toroslar"
+  },
+  {
+    "provinceCode": "33",
+    "provinceName": "Mersin",
+    "provinceNormalized": "mersin",
+    "name": "Yenişehir",
+    "normalized": "yenisehir"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Adalar",
+    "normalized": "adalar"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Arnavutköy",
+    "normalized": "arnavutkoy"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Ataşehir",
+    "normalized": "atasehir"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Avcılar",
+    "normalized": "avcilar"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Bağcılar",
+    "normalized": "bagcilar"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Bahçelievler",
+    "normalized": "bahcelievler"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Bakırköy",
+    "normalized": "bakirkoy"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Başakşehir",
+    "normalized": "basaksehir"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Bayrampaşa",
+    "normalized": "bayrampasa"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Beşiktaş",
+    "normalized": "besiktas"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Beykoz",
+    "normalized": "beykoz"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Beylikdüzü",
+    "normalized": "beylikduzu"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Beyoğlu",
+    "normalized": "beyoglu"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Büyükçekmece",
+    "normalized": "buyukcekmece"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Çatalca",
+    "normalized": "catalca"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Çekmeköy",
+    "normalized": "cekmekoy"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Esenler",
+    "normalized": "esenler"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Esenyurt",
+    "normalized": "esenyurt"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Eyüpsultan",
+    "normalized": "eyupsultan"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Fatih",
+    "normalized": "fatih"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Gaziosmanpaşa",
+    "normalized": "gaziosmanpasa"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Güngören",
+    "normalized": "gungoren"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Kadıköy",
+    "normalized": "kadikoy"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Kağıthane",
+    "normalized": "kagithane"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Kartal",
+    "normalized": "kartal"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Küçükçekmece",
+    "normalized": "kucukcekmece"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Maltepe",
+    "normalized": "maltepe"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Pendik",
+    "normalized": "pendik"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Sancaktepe",
+    "normalized": "sancaktepe"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Sarıyer",
+    "normalized": "sariyer"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Silivri",
+    "normalized": "silivri"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Sultanbeyli",
+    "normalized": "sultanbeyli"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Sultangazi",
+    "normalized": "sultangazi"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Şile",
+    "normalized": "sile"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Şişli",
+    "normalized": "sisli"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Tuzla",
+    "normalized": "tuzla"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Ümraniye",
+    "normalized": "umraniye"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Üsküdar",
+    "normalized": "uskudar"
+  },
+  {
+    "provinceCode": "34",
+    "provinceName": "İstanbul",
+    "provinceNormalized": "istanbul",
+    "name": "Zeytinburnu",
+    "normalized": "zeytinburnu"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Aliağa",
+    "normalized": "aliaga"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Balçova",
+    "normalized": "balcova"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Bayındır",
+    "normalized": "bayindir"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Bayraklı",
+    "normalized": "bayrakli"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Bergama",
+    "normalized": "bergama"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Beydağ",
+    "normalized": "beydag"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Bornova",
+    "normalized": "bornova"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Buca",
+    "normalized": "buca"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Çeşme",
+    "normalized": "cesme"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Çiğli",
+    "normalized": "cigli"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Dikili",
+    "normalized": "dikili"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Foça",
+    "normalized": "foca"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Gaziemir",
+    "normalized": "gaziemir"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Güzelbahçe",
+    "normalized": "guzelbahce"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Karabağlar",
+    "normalized": "karabaglar"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Karaburun",
+    "normalized": "karaburun"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Karşıyaka",
+    "normalized": "karsiyaka"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Kemalpaşa",
+    "normalized": "kemalpasa"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Kınık",
+    "normalized": "kinik"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Kiraz",
+    "normalized": "kiraz"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Konak",
+    "normalized": "konak"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Menderes",
+    "normalized": "menderes"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Menemen",
+    "normalized": "menemen"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Narlıdere",
+    "normalized": "narlidere"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Ödemiş",
+    "normalized": "odemis"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Seferihisar",
+    "normalized": "seferihisar"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Selçuk",
+    "normalized": "selcuk"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Tire",
+    "normalized": "tire"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Torbalı",
+    "normalized": "torbali"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "İzmir",
+    "provinceNormalized": "izmir",
+    "name": "Urla",
+    "normalized": "urla"
+  },
+  {
+    "provinceCode": "36",
+    "provinceName": "Kars",
+    "provinceNormalized": "kars",
+    "name": "Akyaka",
+    "normalized": "akyaka"
+  },
+  {
+    "provinceCode": "36",
+    "provinceName": "Kars",
+    "provinceNormalized": "kars",
+    "name": "Arpaçay",
+    "normalized": "arpacay"
+  },
+  {
+    "provinceCode": "36",
+    "provinceName": "Kars",
+    "provinceNormalized": "kars",
+    "name": "Digor",
+    "normalized": "digor"
+  },
+  {
+    "provinceCode": "36",
+    "provinceName": "Kars",
+    "provinceNormalized": "kars",
+    "name": "Kağızman",
+    "normalized": "kagizman"
+  },
+  {
+    "provinceCode": "36",
+    "provinceName": "Kars",
+    "provinceNormalized": "kars",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "36",
+    "provinceName": "Kars",
+    "provinceNormalized": "kars",
+    "name": "Sarıkamış",
+    "normalized": "sarikamis"
+  },
+  {
+    "provinceCode": "36",
+    "provinceName": "Kars",
+    "provinceNormalized": "kars",
+    "name": "Selim",
+    "normalized": "selim"
+  },
+  {
+    "provinceCode": "36",
+    "provinceName": "Kars",
+    "provinceNormalized": "kars",
+    "name": "Susuz",
+    "normalized": "susuz"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Abana",
+    "normalized": "abana"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Ağlı",
+    "normalized": "agli"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Araç",
+    "normalized": "arac"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Azdavay",
+    "normalized": "azdavay"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Bozkurt",
+    "normalized": "bozkurt"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Cide",
+    "normalized": "cide"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Çatalzeytin",
+    "normalized": "catalzeytin"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Daday",
+    "normalized": "daday"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Devrekani",
+    "normalized": "devrekani"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Doğanyurt",
+    "normalized": "doganyurt"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Hanönü",
+    "normalized": "hanonu"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "İhsangazi",
+    "normalized": "ihsangazi"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "İnebolu",
+    "normalized": "inebolu"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Küre",
+    "normalized": "kure"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Pınarbaşı",
+    "normalized": "pinarbasi"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Seydiler",
+    "normalized": "seydiler"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Şenpazar",
+    "normalized": "senpazar"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Taşköprü",
+    "normalized": "taskopru"
+  },
+  {
+    "provinceCode": "37",
+    "provinceName": "Kastamonu",
+    "provinceNormalized": "kastamonu",
+    "name": "Tosya",
+    "normalized": "tosya"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Akkışla",
+    "normalized": "akkisla"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Bünyan",
+    "normalized": "bunyan"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Develi",
+    "normalized": "develi"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Felahiye",
+    "normalized": "felahiye"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Hacılar",
+    "normalized": "hacilar"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "İncesu",
+    "normalized": "incesu"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Kocasinan",
+    "normalized": "kocasinan"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Melikgazi",
+    "normalized": "melikgazi"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Özvatan",
+    "normalized": "ozvatan"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Pınarbaşı",
+    "normalized": "pinarbasi"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Sarıoğlan",
+    "normalized": "sarioglan"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Sarız",
+    "normalized": "sariz"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Talas",
+    "normalized": "talas"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Tomarza",
+    "normalized": "tomarza"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Yahyalı",
+    "normalized": "yahyali"
+  },
+  {
+    "provinceCode": "38",
+    "provinceName": "Kayseri",
+    "provinceNormalized": "kayseri",
+    "name": "Yeşilhisar",
+    "normalized": "yesilhisar"
+  },
+  {
+    "provinceCode": "39",
+    "provinceName": "Kırklareli",
+    "provinceNormalized": "kirklareli",
+    "name": "Babaeski",
+    "normalized": "babaeski"
+  },
+  {
+    "provinceCode": "39",
+    "provinceName": "Kırklareli",
+    "provinceNormalized": "kirklareli",
+    "name": "Demirköy",
+    "normalized": "demirkoy"
+  },
+  {
+    "provinceCode": "39",
+    "provinceName": "Kırklareli",
+    "provinceNormalized": "kirklareli",
+    "name": "Kofçaz",
+    "normalized": "kofcaz"
+  },
+  {
+    "provinceCode": "39",
+    "provinceName": "Kırklareli",
+    "provinceNormalized": "kirklareli",
+    "name": "Lüleburgaz",
+    "normalized": "luleburgaz"
+  },
+  {
+    "provinceCode": "39",
+    "provinceName": "Kırklareli",
+    "provinceNormalized": "kirklareli",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "39",
+    "provinceName": "Kırklareli",
+    "provinceNormalized": "kirklareli",
+    "name": "Pehlivanköy",
+    "normalized": "pehlivankoy"
+  },
+  {
+    "provinceCode": "39",
+    "provinceName": "Kırklareli",
+    "provinceNormalized": "kirklareli",
+    "name": "Pınarhisar",
+    "normalized": "pinarhisar"
+  },
+  {
+    "provinceCode": "39",
+    "provinceName": "Kırklareli",
+    "provinceNormalized": "kirklareli",
+    "name": "Vize",
+    "normalized": "vize"
+  },
+  {
+    "provinceCode": "40",
+    "provinceName": "Kırşehir",
+    "provinceNormalized": "kirsehir",
+    "name": "Akçakent",
+    "normalized": "akcakent"
+  },
+  {
+    "provinceCode": "40",
+    "provinceName": "Kırşehir",
+    "provinceNormalized": "kirsehir",
+    "name": "Akpınar",
+    "normalized": "akpinar"
+  },
+  {
+    "provinceCode": "40",
+    "provinceName": "Kırşehir",
+    "provinceNormalized": "kirsehir",
+    "name": "Boztepe",
+    "normalized": "boztepe"
+  },
+  {
+    "provinceCode": "40",
+    "provinceName": "Kırşehir",
+    "provinceNormalized": "kirsehir",
+    "name": "Çiçekdağı",
+    "normalized": "cicekdagi"
+  },
+  {
+    "provinceCode": "40",
+    "provinceName": "Kırşehir",
+    "provinceNormalized": "kirsehir",
+    "name": "Kaman",
+    "normalized": "kaman"
+  },
+  {
+    "provinceCode": "40",
+    "provinceName": "Kırşehir",
+    "provinceNormalized": "kirsehir",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "40",
+    "provinceName": "Kırşehir",
+    "provinceNormalized": "kirsehir",
+    "name": "Mucur",
+    "normalized": "mucur"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "Başiskele",
+    "normalized": "basiskele"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "Çayırova",
+    "normalized": "cayirova"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "Darıca",
+    "normalized": "darica"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "Derince",
+    "normalized": "derince"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "Dilovası",
+    "normalized": "dilovasi"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "Gebze",
+    "normalized": "gebze"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "Gölcük",
+    "normalized": "golcuk"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "İzmit",
+    "normalized": "izmit"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "Kandıra",
+    "normalized": "kandira"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "Karamürsel",
+    "normalized": "karamursel"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "Kartepe",
+    "normalized": "kartepe"
+  },
+  {
+    "provinceCode": "41",
+    "provinceName": "Kocaeli",
+    "provinceNormalized": "kocaeli",
+    "name": "Körfez",
+    "normalized": "korfez"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Ahırlı",
+    "normalized": "ahirli"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Akören",
+    "normalized": "akoren"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Akşehir",
+    "normalized": "aksehir"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Altınekin",
+    "normalized": "altinekin"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Beyşehir",
+    "normalized": "beysehir"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Bozkır",
+    "normalized": "bozkir"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Cihanbeyli",
+    "normalized": "cihanbeyli"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Çeltik",
+    "normalized": "celtik"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Çumra",
+    "normalized": "cumra"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Derbent",
+    "normalized": "derbent"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Derebucak",
+    "normalized": "derebucak"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Doğanhisar",
+    "normalized": "doganhisar"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Emirgazi",
+    "normalized": "emirgazi"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Ereğli",
+    "normalized": "eregli"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Güneysınır",
+    "normalized": "guneysinir"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Hadim",
+    "normalized": "hadim"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Halkapınar",
+    "normalized": "halkapinar"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Hüyük",
+    "normalized": "huyuk"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Ilgın",
+    "normalized": "ilgin"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Kadınhanı",
+    "normalized": "kadinhani"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Karapınar",
+    "normalized": "karapinar"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Karatay",
+    "normalized": "karatay"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Kulu",
+    "normalized": "kulu"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Meram",
+    "normalized": "meram"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Sarayönü",
+    "normalized": "sarayonu"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Selçuklu",
+    "normalized": "selcuklu"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Seydişehir",
+    "normalized": "seydisehir"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Taşkent",
+    "normalized": "taskent"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Tuzlukçu",
+    "normalized": "tuzlukcu"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Yalıhüyük",
+    "normalized": "yalihuyuk"
+  },
+  {
+    "provinceCode": "42",
+    "provinceName": "Konya",
+    "provinceNormalized": "konya",
+    "name": "Yunak",
+    "normalized": "yunak"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Altıntaş",
+    "normalized": "altintas"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Aslanapa",
+    "normalized": "aslanapa"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Çavdarhisar",
+    "normalized": "cavdarhisar"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Domaniç",
+    "normalized": "domanic"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Dumlupınar",
+    "normalized": "dumlupinar"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Emet",
+    "normalized": "emet"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Gediz",
+    "normalized": "gediz"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Hisarcık",
+    "normalized": "hisarcik"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Pazarlar",
+    "normalized": "pazarlar"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Simav",
+    "normalized": "simav"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Şaphane",
+    "normalized": "saphane"
+  },
+  {
+    "provinceCode": "43",
+    "provinceName": "Kütahya",
+    "provinceNormalized": "kutahya",
+    "name": "Tavşanlı",
+    "normalized": "tavsanli"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Akçadağ",
+    "normalized": "akcadag"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Arapgir",
+    "normalized": "arapgir"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Arguvan",
+    "normalized": "arguvan"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Battalgazi",
+    "normalized": "battalgazi"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Darende",
+    "normalized": "darende"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Doğanşehir",
+    "normalized": "dogansehir"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Doğanyol",
+    "normalized": "doganyol"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Hekimhan",
+    "normalized": "hekimhan"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Kale",
+    "normalized": "kale"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Kuluncak",
+    "normalized": "kuluncak"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Pütürge",
+    "normalized": "puturge"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Yazıhan",
+    "normalized": "yazihan"
+  },
+  {
+    "provinceCode": "44",
+    "provinceName": "Malatya",
+    "provinceNormalized": "malatya",
+    "name": "Yeşilyurt",
+    "normalized": "yesilyurt"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Ahmetli",
+    "normalized": "ahmetli"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Akhisar",
+    "normalized": "akhisar"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Alaşehir",
+    "normalized": "alasehir"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Demirci",
+    "normalized": "demirci"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Gölmarmara",
+    "normalized": "golmarmara"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Gördes",
+    "normalized": "gordes"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Kırkağaç",
+    "normalized": "kirkagac"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Köprübaşı",
+    "normalized": "koprubasi"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Kula",
+    "normalized": "kula"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Salihli",
+    "normalized": "salihli"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Sarıgöl",
+    "normalized": "sarigol"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Saruhanlı",
+    "normalized": "saruhanli"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Selendi",
+    "normalized": "selendi"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Soma",
+    "normalized": "soma"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Şehzadeler",
+    "normalized": "sehzadeler"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Turgutlu",
+    "normalized": "turgutlu"
+  },
+  {
+    "provinceCode": "45",
+    "provinceName": "Manisa",
+    "provinceNormalized": "manisa",
+    "name": "Yunusemre",
+    "normalized": "yunusemre"
+  },
+  {
+    "provinceCode": "46",
+    "provinceName": "Kahramanmaraş",
+    "provinceNormalized": "kahramanmaras",
+    "name": "Afşin",
+    "normalized": "afsin"
+  },
+  {
+    "provinceCode": "46",
+    "provinceName": "Kahramanmaraş",
+    "provinceNormalized": "kahramanmaras",
+    "name": "Andırın",
+    "normalized": "andirin"
+  },
+  {
+    "provinceCode": "46",
+    "provinceName": "Kahramanmaraş",
+    "provinceNormalized": "kahramanmaras",
+    "name": "Çağlayancerit",
+    "normalized": "caglayancerit"
+  },
+  {
+    "provinceCode": "46",
+    "provinceName": "Kahramanmaraş",
+    "provinceNormalized": "kahramanmaras",
+    "name": "Dulkadiroğlu",
+    "normalized": "dulkadiroglu"
+  },
+  {
+    "provinceCode": "46",
+    "provinceName": "Kahramanmaraş",
+    "provinceNormalized": "kahramanmaras",
+    "name": "Ekinözü",
+    "normalized": "ekinozu"
+  },
+  {
+    "provinceCode": "46",
+    "provinceName": "Kahramanmaraş",
+    "provinceNormalized": "kahramanmaras",
+    "name": "Elbistan",
+    "normalized": "elbistan"
+  },
+  {
+    "provinceCode": "46",
+    "provinceName": "Kahramanmaraş",
+    "provinceNormalized": "kahramanmaras",
+    "name": "Göksun",
+    "normalized": "goksun"
+  },
+  {
+    "provinceCode": "46",
+    "provinceName": "Kahramanmaraş",
+    "provinceNormalized": "kahramanmaras",
+    "name": "Nurhak",
+    "normalized": "nurhak"
+  },
+  {
+    "provinceCode": "46",
+    "provinceName": "Kahramanmaraş",
+    "provinceNormalized": "kahramanmaras",
+    "name": "Onikişubat",
+    "normalized": "onikisubat"
+  },
+  {
+    "provinceCode": "46",
+    "provinceName": "Kahramanmaraş",
+    "provinceNormalized": "kahramanmaras",
+    "name": "Pazarcık",
+    "normalized": "pazarcik"
+  },
+  {
+    "provinceCode": "46",
+    "provinceName": "Kahramanmaraş",
+    "provinceNormalized": "kahramanmaras",
+    "name": "Türkoğlu",
+    "normalized": "turkoglu"
+  },
+  {
+    "provinceCode": "47",
+    "provinceName": "Mardin",
+    "provinceNormalized": "mardin",
+    "name": "Artuklu",
+    "normalized": "artuklu"
+  },
+  {
+    "provinceCode": "47",
+    "provinceName": "Mardin",
+    "provinceNormalized": "mardin",
+    "name": "Dargeçit",
+    "normalized": "dargecit"
+  },
+  {
+    "provinceCode": "47",
+    "provinceName": "Mardin",
+    "provinceNormalized": "mardin",
+    "name": "Derik",
+    "normalized": "derik"
+  },
+  {
+    "provinceCode": "47",
+    "provinceName": "Mardin",
+    "provinceNormalized": "mardin",
+    "name": "Kızıltepe",
+    "normalized": "kiziltepe"
+  },
+  {
+    "provinceCode": "47",
+    "provinceName": "Mardin",
+    "provinceNormalized": "mardin",
+    "name": "Mazıdağı",
+    "normalized": "mazidagi"
+  },
+  {
+    "provinceCode": "47",
+    "provinceName": "Mardin",
+    "provinceNormalized": "mardin",
+    "name": "Midyat",
+    "normalized": "midyat"
+  },
+  {
+    "provinceCode": "47",
+    "provinceName": "Mardin",
+    "provinceNormalized": "mardin",
+    "name": "Nusaybin",
+    "normalized": "nusaybin"
+  },
+  {
+    "provinceCode": "47",
+    "provinceName": "Mardin",
+    "provinceNormalized": "mardin",
+    "name": "Ömerli",
+    "normalized": "omerli"
+  },
+  {
+    "provinceCode": "47",
+    "provinceName": "Mardin",
+    "provinceNormalized": "mardin",
+    "name": "Savur",
+    "normalized": "savur"
+  },
+  {
+    "provinceCode": "47",
+    "provinceName": "Mardin",
+    "provinceNormalized": "mardin",
+    "name": "Yeşilli",
+    "normalized": "yesilli"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Bodrum",
+    "normalized": "bodrum"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Dalaman",
+    "normalized": "dalaman"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Datça",
+    "normalized": "datca"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Fethiye",
+    "normalized": "fethiye"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Kavaklıdere",
+    "normalized": "kavaklidere"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Köyceğiz",
+    "normalized": "koycegiz"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Marmaris",
+    "normalized": "marmaris"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Menteşe",
+    "normalized": "mentese"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Milas",
+    "normalized": "milas"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Ortaca",
+    "normalized": "ortaca"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Seydikemer",
+    "normalized": "seydikemer"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Ula",
+    "normalized": "ula"
+  },
+  {
+    "provinceCode": "48",
+    "provinceName": "Muğla",
+    "provinceNormalized": "mugla",
+    "name": "Yatağan",
+    "normalized": "yatagan"
+  },
+  {
+    "provinceCode": "49",
+    "provinceName": "Muş",
+    "provinceNormalized": "mus",
+    "name": "Bulanık",
+    "normalized": "bulanik"
+  },
+  {
+    "provinceCode": "49",
+    "provinceName": "Muş",
+    "provinceNormalized": "mus",
+    "name": "Hasköy",
+    "normalized": "haskoy"
+  },
+  {
+    "provinceCode": "49",
+    "provinceName": "Muş",
+    "provinceNormalized": "mus",
+    "name": "Korkut",
+    "normalized": "korkut"
+  },
+  {
+    "provinceCode": "49",
+    "provinceName": "Muş",
+    "provinceNormalized": "mus",
+    "name": "Malazgirt",
+    "normalized": "malazgirt"
+  },
+  {
+    "provinceCode": "49",
+    "provinceName": "Muş",
+    "provinceNormalized": "mus",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "49",
+    "provinceName": "Muş",
+    "provinceNormalized": "mus",
+    "name": "Varto",
+    "normalized": "varto"
+  },
+  {
+    "provinceCode": "50",
+    "provinceName": "Nevşehir",
+    "provinceNormalized": "nevsehir",
+    "name": "Acıgöl",
+    "normalized": "acigol"
+  },
+  {
+    "provinceCode": "50",
+    "provinceName": "Nevşehir",
+    "provinceNormalized": "nevsehir",
+    "name": "Avanos",
+    "normalized": "avanos"
+  },
+  {
+    "provinceCode": "50",
+    "provinceName": "Nevşehir",
+    "provinceNormalized": "nevsehir",
+    "name": "Derinkuyu",
+    "normalized": "derinkuyu"
+  },
+  {
+    "provinceCode": "50",
+    "provinceName": "Nevşehir",
+    "provinceNormalized": "nevsehir",
+    "name": "Gülşehir",
+    "normalized": "gulsehir"
+  },
+  {
+    "provinceCode": "50",
+    "provinceName": "Nevşehir",
+    "provinceNormalized": "nevsehir",
+    "name": "Hacıbektaş",
+    "normalized": "hacibektas"
+  },
+  {
+    "provinceCode": "50",
+    "provinceName": "Nevşehir",
+    "provinceNormalized": "nevsehir",
+    "name": "Kozaklı",
+    "normalized": "kozakli"
+  },
+  {
+    "provinceCode": "50",
+    "provinceName": "Nevşehir",
+    "provinceNormalized": "nevsehir",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "50",
+    "provinceName": "Nevşehir",
+    "provinceNormalized": "nevsehir",
+    "name": "Ürgüp",
+    "normalized": "urgup"
+  },
+  {
+    "provinceCode": "51",
+    "provinceName": "Niğde",
+    "provinceNormalized": "nigde",
+    "name": "Altunhisar",
+    "normalized": "altunhisar"
+  },
+  {
+    "provinceCode": "51",
+    "provinceName": "Niğde",
+    "provinceNormalized": "nigde",
+    "name": "Bor",
+    "normalized": "bor"
+  },
+  {
+    "provinceCode": "51",
+    "provinceName": "Niğde",
+    "provinceNormalized": "nigde",
+    "name": "Çamardı",
+    "normalized": "camardi"
+  },
+  {
+    "provinceCode": "51",
+    "provinceName": "Niğde",
+    "provinceNormalized": "nigde",
+    "name": "Çiftlik",
+    "normalized": "ciftlik"
+  },
+  {
+    "provinceCode": "51",
+    "provinceName": "Niğde",
+    "provinceNormalized": "nigde",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "51",
+    "provinceName": "Niğde",
+    "provinceNormalized": "nigde",
+    "name": "Ulukışla",
+    "normalized": "ulukisla"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Akkuş",
+    "normalized": "akkus"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Altınordu",
+    "normalized": "altinordu"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Aybastı",
+    "normalized": "aybasti"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Çamaş",
+    "normalized": "camas"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Çatalpınar",
+    "normalized": "catalpinar"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Çaybaşı",
+    "normalized": "caybasi"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Fatsa",
+    "normalized": "fatsa"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Gölköy",
+    "normalized": "golkoy"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Gülyalı",
+    "normalized": "gulyali"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Gürgentepe",
+    "normalized": "gurgentepe"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "İkizce",
+    "normalized": "ikizce"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Kabadüz",
+    "normalized": "kabaduz"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Kabataş",
+    "normalized": "kabatas"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Korgan",
+    "normalized": "korgan"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Kumru",
+    "normalized": "kumru"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Mesudiye",
+    "normalized": "mesudiye"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Perşembe",
+    "normalized": "persembe"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Ulubey",
+    "normalized": "ulubey"
+  },
+  {
+    "provinceCode": "52",
+    "provinceName": "Ordu",
+    "provinceNormalized": "ordu",
+    "name": "Ünye",
+    "normalized": "unye"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "Ardeşen",
+    "normalized": "ardesen"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "Çamlıhemşin",
+    "normalized": "camlihemsin"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "Çayeli",
+    "normalized": "cayeli"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "Derepazarı",
+    "normalized": "derepazari"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "Fındıklı",
+    "normalized": "findikli"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "Güneysu",
+    "normalized": "guneysu"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "Hemşin",
+    "normalized": "hemsin"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "İkizdere",
+    "normalized": "ikizdere"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "İyidere",
+    "normalized": "iyidere"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "Kalkandere",
+    "normalized": "kalkandere"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "53",
+    "provinceName": "Rize",
+    "provinceNormalized": "rize",
+    "name": "Pazar",
+    "normalized": "pazar"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Adapazarı",
+    "normalized": "adapazari"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Akyazı",
+    "normalized": "akyazi"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Arifiye",
+    "normalized": "arifiye"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Erenler",
+    "normalized": "erenler"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Ferizli",
+    "normalized": "ferizli"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Geyve",
+    "normalized": "geyve"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Hendek",
+    "normalized": "hendek"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Karapürçek",
+    "normalized": "karapurcek"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Karasu",
+    "normalized": "karasu"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Kaynarca",
+    "normalized": "kaynarca"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Kocaali",
+    "normalized": "kocaali"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Pamukova",
+    "normalized": "pamukova"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Sapanca",
+    "normalized": "sapanca"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Serdivan",
+    "normalized": "serdivan"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Söğütlü",
+    "normalized": "sogutlu"
+  },
+  {
+    "provinceCode": "54",
+    "provinceName": "Sakarya",
+    "provinceNormalized": "sakarya",
+    "name": "Taraklı",
+    "normalized": "tarakli"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "19 Mayıs",
+    "normalized": "19-mayis"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Alaçam",
+    "normalized": "alacam"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Asarcık",
+    "normalized": "asarcik"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Atakum",
+    "normalized": "atakum"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Ayvacık",
+    "normalized": "ayvacik"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Bafra",
+    "normalized": "bafra"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Canik",
+    "normalized": "canik"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Çarşamba",
+    "normalized": "carsamba"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Havza",
+    "normalized": "havza"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "İlkadım",
+    "normalized": "ilkadim"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Kavak",
+    "normalized": "kavak"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Ladik",
+    "normalized": "ladik"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Salıpazarı",
+    "normalized": "salipazari"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Tekkeköy",
+    "normalized": "tekkekoy"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Terme",
+    "normalized": "terme"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Vezirköprü",
+    "normalized": "vezirkopru"
+  },
+  {
+    "provinceCode": "55",
+    "provinceName": "Samsun",
+    "provinceNormalized": "samsun",
+    "name": "Yakakent",
+    "normalized": "yakakent"
+  },
+  {
+    "provinceCode": "56",
+    "provinceName": "Siirt",
+    "provinceNormalized": "siirt",
+    "name": "Baykan",
+    "normalized": "baykan"
+  },
+  {
+    "provinceCode": "56",
+    "provinceName": "Siirt",
+    "provinceNormalized": "siirt",
+    "name": "Eruh",
+    "normalized": "eruh"
+  },
+  {
+    "provinceCode": "56",
+    "provinceName": "Siirt",
+    "provinceNormalized": "siirt",
+    "name": "Kurtalan",
+    "normalized": "kurtalan"
+  },
+  {
+    "provinceCode": "56",
+    "provinceName": "Siirt",
+    "provinceNormalized": "siirt",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "56",
+    "provinceName": "Siirt",
+    "provinceNormalized": "siirt",
+    "name": "Pervari",
+    "normalized": "pervari"
+  },
+  {
+    "provinceCode": "56",
+    "provinceName": "Siirt",
+    "provinceNormalized": "siirt",
+    "name": "Şirvan",
+    "normalized": "sirvan"
+  },
+  {
+    "provinceCode": "56",
+    "provinceName": "Siirt",
+    "provinceNormalized": "siirt",
+    "name": "Tillo",
+    "normalized": "tillo"
+  },
+  {
+    "provinceCode": "57",
+    "provinceName": "Sinop",
+    "provinceNormalized": "sinop",
+    "name": "Ayancık",
+    "normalized": "ayancik"
+  },
+  {
+    "provinceCode": "57",
+    "provinceName": "Sinop",
+    "provinceNormalized": "sinop",
+    "name": "Boyabat",
+    "normalized": "boyabat"
+  },
+  {
+    "provinceCode": "57",
+    "provinceName": "Sinop",
+    "provinceNormalized": "sinop",
+    "name": "Dikmen",
+    "normalized": "dikmen"
+  },
+  {
+    "provinceCode": "57",
+    "provinceName": "Sinop",
+    "provinceNormalized": "sinop",
+    "name": "Durağan",
+    "normalized": "duragan"
+  },
+  {
+    "provinceCode": "57",
+    "provinceName": "Sinop",
+    "provinceNormalized": "sinop",
+    "name": "Erfelek",
+    "normalized": "erfelek"
+  },
+  {
+    "provinceCode": "57",
+    "provinceName": "Sinop",
+    "provinceNormalized": "sinop",
+    "name": "Gerze",
+    "normalized": "gerze"
+  },
+  {
+    "provinceCode": "57",
+    "provinceName": "Sinop",
+    "provinceNormalized": "sinop",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "57",
+    "provinceName": "Sinop",
+    "provinceNormalized": "sinop",
+    "name": "Saraydüzü",
+    "normalized": "sarayduzu"
+  },
+  {
+    "provinceCode": "57",
+    "provinceName": "Sinop",
+    "provinceNormalized": "sinop",
+    "name": "Türkeli",
+    "normalized": "turkeli"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Akıncılar",
+    "normalized": "akincilar"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Altınyayla",
+    "normalized": "altinyayla"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Divriği",
+    "normalized": "divrigi"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Doğanşar",
+    "normalized": "dogansar"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Gemerek",
+    "normalized": "gemerek"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Gölova",
+    "normalized": "golova"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Gürün",
+    "normalized": "gurun"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Hafik",
+    "normalized": "hafik"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "İmranlı",
+    "normalized": "imranli"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Kangal",
+    "normalized": "kangal"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Koyulhisar",
+    "normalized": "koyulhisar"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Suşehri",
+    "normalized": "susehri"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Şarkışla",
+    "normalized": "sarkisla"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Ulaş",
+    "normalized": "ulas"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Yıldızeli",
+    "normalized": "yildizeli"
+  },
+  {
+    "provinceCode": "58",
+    "provinceName": "Sivas",
+    "provinceNormalized": "sivas",
+    "name": "Zara",
+    "normalized": "zara"
+  },
+  {
+    "provinceCode": "59",
+    "provinceName": "Tekirdağ",
+    "provinceNormalized": "tekirdag",
+    "name": "Çerkezköy",
+    "normalized": "cerkezkoy"
+  },
+  {
+    "provinceCode": "59",
+    "provinceName": "Tekirdağ",
+    "provinceNormalized": "tekirdag",
+    "name": "Çorlu",
+    "normalized": "corlu"
+  },
+  {
+    "provinceCode": "59",
+    "provinceName": "Tekirdağ",
+    "provinceNormalized": "tekirdag",
+    "name": "Ergene",
+    "normalized": "ergene"
+  },
+  {
+    "provinceCode": "59",
+    "provinceName": "Tekirdağ",
+    "provinceNormalized": "tekirdag",
+    "name": "Hayrabolu",
+    "normalized": "hayrabolu"
+  },
+  {
+    "provinceCode": "59",
+    "provinceName": "Tekirdağ",
+    "provinceNormalized": "tekirdag",
+    "name": "Kapaklı",
+    "normalized": "kapakli"
+  },
+  {
+    "provinceCode": "59",
+    "provinceName": "Tekirdağ",
+    "provinceNormalized": "tekirdag",
+    "name": "Malkara",
+    "normalized": "malkara"
+  },
+  {
+    "provinceCode": "59",
+    "provinceName": "Tekirdağ",
+    "provinceNormalized": "tekirdag",
+    "name": "Marmaraereğlisi",
+    "normalized": "marmaraereglisi"
+  },
+  {
+    "provinceCode": "59",
+    "provinceName": "Tekirdağ",
+    "provinceNormalized": "tekirdag",
+    "name": "Muratlı",
+    "normalized": "muratli"
+  },
+  {
+    "provinceCode": "59",
+    "provinceName": "Tekirdağ",
+    "provinceNormalized": "tekirdag",
+    "name": "Saray",
+    "normalized": "saray"
+  },
+  {
+    "provinceCode": "59",
+    "provinceName": "Tekirdağ",
+    "provinceNormalized": "tekirdag",
+    "name": "Süleymanpaşa",
+    "normalized": "suleymanpasa"
+  },
+  {
+    "provinceCode": "59",
+    "provinceName": "Tekirdağ",
+    "provinceNormalized": "tekirdag",
+    "name": "Şarköy",
+    "normalized": "sarkoy"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Almus",
+    "normalized": "almus"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Artova",
+    "normalized": "artova"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Başçiftlik",
+    "normalized": "basciftlik"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Erbaa",
+    "normalized": "erbaa"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Niksar",
+    "normalized": "niksar"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Pazar",
+    "normalized": "pazar"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Reşadiye",
+    "normalized": "resadiye"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Sulusaray",
+    "normalized": "sulusaray"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Turhal",
+    "normalized": "turhal"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Yeşilyurt",
+    "normalized": "yesilyurt"
+  },
+  {
+    "provinceCode": "60",
+    "provinceName": "Tokat",
+    "provinceNormalized": "tokat",
+    "name": "Zile",
+    "normalized": "zile"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Akçaabat",
+    "normalized": "akcaabat"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Araklı",
+    "normalized": "arakli"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Arsin",
+    "normalized": "arsin"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Beşikdüzü",
+    "normalized": "besikduzu"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Çarşıbaşı",
+    "normalized": "carsibasi"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Çaykara",
+    "normalized": "caykara"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Dernekpazarı",
+    "normalized": "dernekpazari"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Düzköy",
+    "normalized": "duzkoy"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Hayrat",
+    "normalized": "hayrat"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Köprübaşı",
+    "normalized": "koprubasi"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Maçka",
+    "normalized": "macka"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Of",
+    "normalized": "of"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Ortahisar",
+    "normalized": "ortahisar"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Sürmene",
+    "normalized": "surmene"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Şalpazarı",
+    "normalized": "salpazari"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Tonya",
+    "normalized": "tonya"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Vakfıkebir",
+    "normalized": "vakfikebir"
+  },
+  {
+    "provinceCode": "61",
+    "provinceName": "Trabzon",
+    "provinceNormalized": "trabzon",
+    "name": "Yomra",
+    "normalized": "yomra"
+  },
+  {
+    "provinceCode": "62",
+    "provinceName": "Tunceli",
+    "provinceNormalized": "tunceli",
+    "name": "Çemişgezek",
+    "normalized": "cemisgezek"
+  },
+  {
+    "provinceCode": "62",
+    "provinceName": "Tunceli",
+    "provinceNormalized": "tunceli",
+    "name": "Hozat",
+    "normalized": "hozat"
+  },
+  {
+    "provinceCode": "62",
+    "provinceName": "Tunceli",
+    "provinceNormalized": "tunceli",
+    "name": "Mazgirt",
+    "normalized": "mazgirt"
+  },
+  {
+    "provinceCode": "62",
+    "provinceName": "Tunceli",
+    "provinceNormalized": "tunceli",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "62",
+    "provinceName": "Tunceli",
+    "provinceNormalized": "tunceli",
+    "name": "Nazımiye",
+    "normalized": "nazimiye"
+  },
+  {
+    "provinceCode": "62",
+    "provinceName": "Tunceli",
+    "provinceNormalized": "tunceli",
+    "name": "Ovacık",
+    "normalized": "ovacik"
+  },
+  {
+    "provinceCode": "62",
+    "provinceName": "Tunceli",
+    "provinceNormalized": "tunceli",
+    "name": "Pertek",
+    "normalized": "pertek"
+  },
+  {
+    "provinceCode": "62",
+    "provinceName": "Tunceli",
+    "provinceNormalized": "tunceli",
+    "name": "Pülümür",
+    "normalized": "pulumur"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Akçakale",
+    "normalized": "akcakale"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Birecik",
+    "normalized": "birecik"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Bozova",
+    "normalized": "bozova"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Ceylanpınar",
+    "normalized": "ceylanpinar"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Eyyübiye",
+    "normalized": "eyyubiye"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Halfeti",
+    "normalized": "halfeti"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Haliliye",
+    "normalized": "haliliye"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Harran",
+    "normalized": "harran"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Hilvan",
+    "normalized": "hilvan"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Karaköprü",
+    "normalized": "karakopru"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Siverek",
+    "normalized": "siverek"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Suruç",
+    "normalized": "suruc"
+  },
+  {
+    "provinceCode": "63",
+    "provinceName": "Şanlıurfa",
+    "provinceNormalized": "sanliurfa",
+    "name": "Viranşehir",
+    "normalized": "viransehir"
+  },
+  {
+    "provinceCode": "64",
+    "provinceName": "Uşak",
+    "provinceNormalized": "usak",
+    "name": "Banaz",
+    "normalized": "banaz"
+  },
+  {
+    "provinceCode": "64",
+    "provinceName": "Uşak",
+    "provinceNormalized": "usak",
+    "name": "Eşme",
+    "normalized": "esme"
+  },
+  {
+    "provinceCode": "64",
+    "provinceName": "Uşak",
+    "provinceNormalized": "usak",
+    "name": "Karahallı",
+    "normalized": "karahalli"
+  },
+  {
+    "provinceCode": "64",
+    "provinceName": "Uşak",
+    "provinceNormalized": "usak",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "64",
+    "provinceName": "Uşak",
+    "provinceNormalized": "usak",
+    "name": "Sivaslı",
+    "normalized": "sivasli"
+  },
+  {
+    "provinceCode": "64",
+    "provinceName": "Uşak",
+    "provinceNormalized": "usak",
+    "name": "Ulubey",
+    "normalized": "ulubey"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Bahçesaray",
+    "normalized": "bahcesaray"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Başkale",
+    "normalized": "baskale"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Çaldıran",
+    "normalized": "caldiran"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Çatak",
+    "normalized": "catak"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Edremit",
+    "normalized": "edremit"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Erciş",
+    "normalized": "ercis"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Gevaş",
+    "normalized": "gevas"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Gürpınar",
+    "normalized": "gurpinar"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "İpekyolu",
+    "normalized": "ipekyolu"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Muradiye",
+    "normalized": "muradiye"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Özalp",
+    "normalized": "ozalp"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Saray",
+    "normalized": "saray"
+  },
+  {
+    "provinceCode": "65",
+    "provinceName": "Van",
+    "provinceNormalized": "van",
+    "name": "Tuşba",
+    "normalized": "tusba"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Akdağmadeni",
+    "normalized": "akdagmadeni"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Aydıncık",
+    "normalized": "aydincik"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Boğazlıyan",
+    "normalized": "bogazliyan"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Çandır",
+    "normalized": "candir"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Çayıralan",
+    "normalized": "cayiralan"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Çekerek",
+    "normalized": "cekerek"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Kadışehri",
+    "normalized": "kadisehri"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Saraykent",
+    "normalized": "saraykent"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Sarıkaya",
+    "normalized": "sarikaya"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Sorgun",
+    "normalized": "sorgun"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Şefaatli",
+    "normalized": "sefaatli"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Yenifakılı",
+    "normalized": "yenifakili"
+  },
+  {
+    "provinceCode": "66",
+    "provinceName": "Yozgat",
+    "provinceNormalized": "yozgat",
+    "name": "Yerköy",
+    "normalized": "yerkoy"
+  },
+  {
+    "provinceCode": "67",
+    "provinceName": "Zonguldak",
+    "provinceNormalized": "zonguldak",
+    "name": "Alaplı",
+    "normalized": "alapli"
+  },
+  {
+    "provinceCode": "67",
+    "provinceName": "Zonguldak",
+    "provinceNormalized": "zonguldak",
+    "name": "Çaycuma",
+    "normalized": "caycuma"
+  },
+  {
+    "provinceCode": "67",
+    "provinceName": "Zonguldak",
+    "provinceNormalized": "zonguldak",
+    "name": "Devrek",
+    "normalized": "devrek"
+  },
+  {
+    "provinceCode": "67",
+    "provinceName": "Zonguldak",
+    "provinceNormalized": "zonguldak",
+    "name": "Ereğli",
+    "normalized": "eregli"
+  },
+  {
+    "provinceCode": "67",
+    "provinceName": "Zonguldak",
+    "provinceNormalized": "zonguldak",
+    "name": "Gökçebey",
+    "normalized": "gokcebey"
+  },
+  {
+    "provinceCode": "67",
+    "provinceName": "Zonguldak",
+    "provinceNormalized": "zonguldak",
+    "name": "Kilimli",
+    "normalized": "kilimli"
+  },
+  {
+    "provinceCode": "67",
+    "provinceName": "Zonguldak",
+    "provinceNormalized": "zonguldak",
+    "name": "Kozlu",
+    "normalized": "kozlu"
+  },
+  {
+    "provinceCode": "67",
+    "provinceName": "Zonguldak",
+    "provinceNormalized": "zonguldak",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "68",
+    "provinceName": "Aksaray",
+    "provinceNormalized": "aksaray",
+    "name": "Ağaçören",
+    "normalized": "agacoren"
+  },
+  {
+    "provinceCode": "68",
+    "provinceName": "Aksaray",
+    "provinceNormalized": "aksaray",
+    "name": "Eskil",
+    "normalized": "eskil"
+  },
+  {
+    "provinceCode": "68",
+    "provinceName": "Aksaray",
+    "provinceNormalized": "aksaray",
+    "name": "Gülağaç",
+    "normalized": "gulagac"
+  },
+  {
+    "provinceCode": "68",
+    "provinceName": "Aksaray",
+    "provinceNormalized": "aksaray",
+    "name": "Güzelyurt",
+    "normalized": "guzelyurt"
+  },
+  {
+    "provinceCode": "68",
+    "provinceName": "Aksaray",
+    "provinceNormalized": "aksaray",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "68",
+    "provinceName": "Aksaray",
+    "provinceNormalized": "aksaray",
+    "name": "Ortaköy",
+    "normalized": "ortakoy"
+  },
+  {
+    "provinceCode": "68",
+    "provinceName": "Aksaray",
+    "provinceNormalized": "aksaray",
+    "name": "Sarıyahşi",
+    "normalized": "sariyahsi"
+  },
+  {
+    "provinceCode": "68",
+    "provinceName": "Aksaray",
+    "provinceNormalized": "aksaray",
+    "name": "Sultanhanı",
+    "normalized": "sultanhani"
+  },
+  {
+    "provinceCode": "69",
+    "provinceName": "Bayburt",
+    "provinceNormalized": "bayburt",
+    "name": "Aydıntepe",
+    "normalized": "aydintepe"
+  },
+  {
+    "provinceCode": "69",
+    "provinceName": "Bayburt",
+    "provinceNormalized": "bayburt",
+    "name": "Demirözü",
+    "normalized": "demirozu"
+  },
+  {
+    "provinceCode": "69",
+    "provinceName": "Bayburt",
+    "provinceNormalized": "bayburt",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "70",
+    "provinceName": "Karaman",
+    "provinceNormalized": "karaman",
+    "name": "Ayrancı",
+    "normalized": "ayranci"
+  },
+  {
+    "provinceCode": "70",
+    "provinceName": "Karaman",
+    "provinceNormalized": "karaman",
+    "name": "Başyayla",
+    "normalized": "basyayla"
+  },
+  {
+    "provinceCode": "70",
+    "provinceName": "Karaman",
+    "provinceNormalized": "karaman",
+    "name": "Ermenek",
+    "normalized": "ermenek"
+  },
+  {
+    "provinceCode": "70",
+    "provinceName": "Karaman",
+    "provinceNormalized": "karaman",
+    "name": "Kazımkarabekir",
+    "normalized": "kazimkarabekir"
+  },
+  {
+    "provinceCode": "70",
+    "provinceName": "Karaman",
+    "provinceNormalized": "karaman",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "70",
+    "provinceName": "Karaman",
+    "provinceNormalized": "karaman",
+    "name": "Sarıveliler",
+    "normalized": "sariveliler"
+  },
+  {
+    "provinceCode": "71",
+    "provinceName": "Kırıkkale",
+    "provinceNormalized": "kirikkale",
+    "name": "Bahşılı",
+    "normalized": "bahsili"
+  },
+  {
+    "provinceCode": "71",
+    "provinceName": "Kırıkkale",
+    "provinceNormalized": "kirikkale",
+    "name": "Balışeyh",
+    "normalized": "baliseyh"
+  },
+  {
+    "provinceCode": "71",
+    "provinceName": "Kırıkkale",
+    "provinceNormalized": "kirikkale",
+    "name": "Çelebi",
+    "normalized": "celebi"
+  },
+  {
+    "provinceCode": "71",
+    "provinceName": "Kırıkkale",
+    "provinceNormalized": "kirikkale",
+    "name": "Delice",
+    "normalized": "delice"
+  },
+  {
+    "provinceCode": "71",
+    "provinceName": "Kırıkkale",
+    "provinceNormalized": "kirikkale",
+    "name": "Karakeçili",
+    "normalized": "karakecili"
+  },
+  {
+    "provinceCode": "71",
+    "provinceName": "Kırıkkale",
+    "provinceNormalized": "kirikkale",
+    "name": "Keskin",
+    "normalized": "keskin"
+  },
+  {
+    "provinceCode": "71",
+    "provinceName": "Kırıkkale",
+    "provinceNormalized": "kirikkale",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "71",
+    "provinceName": "Kırıkkale",
+    "provinceNormalized": "kirikkale",
+    "name": "Sulakyurt",
+    "normalized": "sulakyurt"
+  },
+  {
+    "provinceCode": "71",
+    "provinceName": "Kırıkkale",
+    "provinceNormalized": "kirikkale",
+    "name": "Yahşihan",
+    "normalized": "yahsihan"
+  },
+  {
+    "provinceCode": "72",
+    "provinceName": "Batman",
+    "provinceNormalized": "batman",
+    "name": "Beşiri",
+    "normalized": "besiri"
+  },
+  {
+    "provinceCode": "72",
+    "provinceName": "Batman",
+    "provinceNormalized": "batman",
+    "name": "Gercüş",
+    "normalized": "gercus"
+  },
+  {
+    "provinceCode": "72",
+    "provinceName": "Batman",
+    "provinceNormalized": "batman",
+    "name": "Hasankeyf",
+    "normalized": "hasankeyf"
+  },
+  {
+    "provinceCode": "72",
+    "provinceName": "Batman",
+    "provinceNormalized": "batman",
+    "name": "Kozluk",
+    "normalized": "kozluk"
+  },
+  {
+    "provinceCode": "72",
+    "provinceName": "Batman",
+    "provinceNormalized": "batman",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "72",
+    "provinceName": "Batman",
+    "provinceNormalized": "batman",
+    "name": "Sason",
+    "normalized": "sason"
+  },
+  {
+    "provinceCode": "73",
+    "provinceName": "Şırnak",
+    "provinceNormalized": "sirnak",
+    "name": "Beytüşşebap",
+    "normalized": "beytussebap"
+  },
+  {
+    "provinceCode": "73",
+    "provinceName": "Şırnak",
+    "provinceNormalized": "sirnak",
+    "name": "Cizre",
+    "normalized": "cizre"
+  },
+  {
+    "provinceCode": "73",
+    "provinceName": "Şırnak",
+    "provinceNormalized": "sirnak",
+    "name": "Güçlükonak",
+    "normalized": "guclukonak"
+  },
+  {
+    "provinceCode": "73",
+    "provinceName": "Şırnak",
+    "provinceNormalized": "sirnak",
+    "name": "İdil",
+    "normalized": "idil"
+  },
+  {
+    "provinceCode": "73",
+    "provinceName": "Şırnak",
+    "provinceNormalized": "sirnak",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "73",
+    "provinceName": "Şırnak",
+    "provinceNormalized": "sirnak",
+    "name": "Silopi",
+    "normalized": "silopi"
+  },
+  {
+    "provinceCode": "73",
+    "provinceName": "Şırnak",
+    "provinceNormalized": "sirnak",
+    "name": "Uludere",
+    "normalized": "uludere"
+  },
+  {
+    "provinceCode": "74",
+    "provinceName": "Bartın",
+    "provinceNormalized": "bartin",
+    "name": "Amasra",
+    "normalized": "amasra"
+  },
+  {
+    "provinceCode": "74",
+    "provinceName": "Bartın",
+    "provinceNormalized": "bartin",
+    "name": "Kurucaşile",
+    "normalized": "kurucasile"
+  },
+  {
+    "provinceCode": "74",
+    "provinceName": "Bartın",
+    "provinceNormalized": "bartin",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "74",
+    "provinceName": "Bartın",
+    "provinceNormalized": "bartin",
+    "name": "Ulus",
+    "normalized": "ulus"
+  },
+  {
+    "provinceCode": "75",
+    "provinceName": "Ardahan",
+    "provinceNormalized": "ardahan",
+    "name": "Çıldır",
+    "normalized": "cildir"
+  },
+  {
+    "provinceCode": "75",
+    "provinceName": "Ardahan",
+    "provinceNormalized": "ardahan",
+    "name": "Damal",
+    "normalized": "damal"
+  },
+  {
+    "provinceCode": "75",
+    "provinceName": "Ardahan",
+    "provinceNormalized": "ardahan",
+    "name": "Göle",
+    "normalized": "gole"
+  },
+  {
+    "provinceCode": "75",
+    "provinceName": "Ardahan",
+    "provinceNormalized": "ardahan",
+    "name": "Hanak",
+    "normalized": "hanak"
+  },
+  {
+    "provinceCode": "75",
+    "provinceName": "Ardahan",
+    "provinceNormalized": "ardahan",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "75",
+    "provinceName": "Ardahan",
+    "provinceNormalized": "ardahan",
+    "name": "Posof",
+    "normalized": "posof"
+  },
+  {
+    "provinceCode": "76",
+    "provinceName": "Iğdır",
+    "provinceNormalized": "igdir",
+    "name": "Aralık",
+    "normalized": "aralik"
+  },
+  {
+    "provinceCode": "76",
+    "provinceName": "Iğdır",
+    "provinceNormalized": "igdir",
+    "name": "Karakoyunlu",
+    "normalized": "karakoyunlu"
+  },
+  {
+    "provinceCode": "76",
+    "provinceName": "Iğdır",
+    "provinceNormalized": "igdir",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "76",
+    "provinceName": "Iğdır",
+    "provinceNormalized": "igdir",
+    "name": "Tuzluca",
+    "normalized": "tuzluca"
+  },
+  {
+    "provinceCode": "77",
+    "provinceName": "Yalova",
+    "provinceNormalized": "yalova",
+    "name": "Altınova",
+    "normalized": "altinova"
+  },
+  {
+    "provinceCode": "77",
+    "provinceName": "Yalova",
+    "provinceNormalized": "yalova",
+    "name": "Armutlu",
+    "normalized": "armutlu"
+  },
+  {
+    "provinceCode": "77",
+    "provinceName": "Yalova",
+    "provinceNormalized": "yalova",
+    "name": "Çınarcık",
+    "normalized": "cinarcik"
+  },
+  {
+    "provinceCode": "77",
+    "provinceName": "Yalova",
+    "provinceNormalized": "yalova",
+    "name": "Çiftlikköy",
+    "normalized": "ciftlikkoy"
+  },
+  {
+    "provinceCode": "77",
+    "provinceName": "Yalova",
+    "provinceNormalized": "yalova",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "77",
+    "provinceName": "Yalova",
+    "provinceNormalized": "yalova",
+    "name": "Termal",
+    "normalized": "termal"
+  },
+  {
+    "provinceCode": "78",
+    "provinceName": "Karabük",
+    "provinceNormalized": "karabuk",
+    "name": "Eflani",
+    "normalized": "eflani"
+  },
+  {
+    "provinceCode": "78",
+    "provinceName": "Karabük",
+    "provinceNormalized": "karabuk",
+    "name": "Eskipazar",
+    "normalized": "eskipazar"
+  },
+  {
+    "provinceCode": "78",
+    "provinceName": "Karabük",
+    "provinceNormalized": "karabuk",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "78",
+    "provinceName": "Karabük",
+    "provinceNormalized": "karabuk",
+    "name": "Ovacık",
+    "normalized": "ovacik"
+  },
+  {
+    "provinceCode": "78",
+    "provinceName": "Karabük",
+    "provinceNormalized": "karabuk",
+    "name": "Safranbolu",
+    "normalized": "safranbolu"
+  },
+  {
+    "provinceCode": "78",
+    "provinceName": "Karabük",
+    "provinceNormalized": "karabuk",
+    "name": "Yenice",
+    "normalized": "yenice"
+  },
+  {
+    "provinceCode": "79",
+    "provinceName": "Kilis",
+    "provinceNormalized": "kilis",
+    "name": "Elbeyli",
+    "normalized": "elbeyli"
+  },
+  {
+    "provinceCode": "79",
+    "provinceName": "Kilis",
+    "provinceNormalized": "kilis",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "79",
+    "provinceName": "Kilis",
+    "provinceNormalized": "kilis",
+    "name": "Musabeyli",
+    "normalized": "musabeyli"
+  },
+  {
+    "provinceCode": "79",
+    "provinceName": "Kilis",
+    "provinceNormalized": "kilis",
+    "name": "Polateli",
+    "normalized": "polateli"
+  },
+  {
+    "provinceCode": "80",
+    "provinceName": "Osmaniye",
+    "provinceNormalized": "osmaniye",
+    "name": "Bahçe",
+    "normalized": "bahce"
+  },
+  {
+    "provinceCode": "80",
+    "provinceName": "Osmaniye",
+    "provinceNormalized": "osmaniye",
+    "name": "Düziçi",
+    "normalized": "duzici"
+  },
+  {
+    "provinceCode": "80",
+    "provinceName": "Osmaniye",
+    "provinceNormalized": "osmaniye",
+    "name": "Hasanbeyli",
+    "normalized": "hasanbeyli"
+  },
+  {
+    "provinceCode": "80",
+    "provinceName": "Osmaniye",
+    "provinceNormalized": "osmaniye",
+    "name": "Kadirli",
+    "normalized": "kadirli"
+  },
+  {
+    "provinceCode": "80",
+    "provinceName": "Osmaniye",
+    "provinceNormalized": "osmaniye",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "80",
+    "provinceName": "Osmaniye",
+    "provinceNormalized": "osmaniye",
+    "name": "Sumbas",
+    "normalized": "sumbas"
+  },
+  {
+    "provinceCode": "80",
+    "provinceName": "Osmaniye",
+    "provinceNormalized": "osmaniye",
+    "name": "Toprakkale",
+    "normalized": "toprakkale"
+  },
+  {
+    "provinceCode": "81",
+    "provinceName": "Düzce",
+    "provinceNormalized": "duzce",
+    "name": "Akçakoca",
+    "normalized": "akcakoca"
+  },
+  {
+    "provinceCode": "81",
+    "provinceName": "Düzce",
+    "provinceNormalized": "duzce",
+    "name": "Cumayeri",
+    "normalized": "cumayeri"
+  },
+  {
+    "provinceCode": "81",
+    "provinceName": "Düzce",
+    "provinceNormalized": "duzce",
+    "name": "Çilimli",
+    "normalized": "cilimli"
+  },
+  {
+    "provinceCode": "81",
+    "provinceName": "Düzce",
+    "provinceNormalized": "duzce",
+    "name": "Gölyaka",
+    "normalized": "golyaka"
+  },
+  {
+    "provinceCode": "81",
+    "provinceName": "Düzce",
+    "provinceNormalized": "duzce",
+    "name": "Gümüşova",
+    "normalized": "gumusova"
+  },
+  {
+    "provinceCode": "81",
+    "provinceName": "Düzce",
+    "provinceNormalized": "duzce",
+    "name": "Kaynaşlı",
+    "normalized": "kaynasli"
+  },
+  {
+    "provinceCode": "81",
+    "provinceName": "Düzce",
+    "provinceNormalized": "duzce",
+    "name": "Merkez",
+    "normalized": "merkez"
+  },
+  {
+    "provinceCode": "81",
+    "provinceName": "Düzce",
+    "provinceNormalized": "duzce",
+    "name": "Yığılca",
+    "normalized": "yigilca"
+  }
+]

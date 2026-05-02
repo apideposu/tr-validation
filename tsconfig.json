@@ -9,6 +9,7 @@
     "strictNullChecks": true,
     "noUncheckedIndexedAccess": true,
     "exactOptionalPropertyTypes": true,
+    "resolveJsonModule": true,
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
@@ -18,5 +19,5 @@
     "verbatimModuleSyntax": true,
     "isolatedModules": true
   },
-  "include": ["src", "tests", "tsup.config.ts", "vitest.config.ts"]
+  "include": ["src", "tests", "data", "tsup.config.ts", "vitest.config.ts"]
 }

@@ -18,6 +18,17 @@ export const IBAN_REASON_CODES = {
   NON_TR_IBAN: "NON_TR_IBAN",
 } as const;
 
+export const PHONE_REASON_CODES = {
+  INVALID_PHONE: "INVALID_PHONE",
+  NON_TR_PHONE: "NON_TR_PHONE",
+} as const;
+
+export const LOCATION_REASON_CODES = {
+  PROVINCE_NOT_FOUND: "PROVINCE_NOT_FOUND",
+  DISTRICT_NOT_FOUND: "DISTRICT_NOT_FOUND",
+  AMBIGUOUS_DISTRICT: "AMBIGUOUS_DISTRICT",
+} as const;
+
 export type CommonReasonCode =
   (typeof COMMON_REASON_CODES)[keyof typeof COMMON_REASON_CODES];
 
@@ -32,3 +43,11 @@ export type VknReasonCode =
 export type IbanReasonCode =
   | CommonReasonCode
   | (typeof IBAN_REASON_CODES)[keyof typeof IBAN_REASON_CODES];
+
+export type PhoneReasonCode =
+  | CommonReasonCode
+  | (typeof PHONE_REASON_CODES)[keyof typeof PHONE_REASON_CODES];
+
+export type LocationReasonCode =
+  | CommonReasonCode
+  | (typeof LOCATION_REASON_CODES)[keyof typeof LOCATION_REASON_CODES];
