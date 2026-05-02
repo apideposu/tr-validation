@@ -1,0 +1,26 @@
+{
+  "name": "tr-validation-react-hook-form-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@apideposu/tr-validation": "file:../..",
+    "@apideposu/tr-validation-zod": "0.1.0",
+    "@hookform/resolvers": "^5.2.2",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-hook-form": "^7.75.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.8.3",
+    "vite": "^5.4.10"
+  }
+}
