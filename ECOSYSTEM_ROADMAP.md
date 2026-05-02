@@ -70,9 +70,9 @@ Recommended package split:
 
 Recommended repo timing:
 
-- now: no new repo required
-- first: add examples in the current repo
-- later: open adapter repos when the first adapter leaves RFC stage
+- completed: add examples in the current repo
+- completed: publish the first adapter repo `@apideposu/tr-validation-zod`
+- next: only open another adapter repo when there is a concrete integration need beyond Zod
 - later: open a dedicated address repo only if dataset size or release cadence diverges from core
 
 ## Immediate Operational Work

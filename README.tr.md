@@ -256,6 +256,15 @@ Location'a ozel:
 - `normalizeProvince` ve `normalizeDistrict`, statik dataset ile Turkce text normalization yaklasimini birlikte kullanir.
 - `validateIban`, sadece TR IBAN icin yapisal kontrol ve MOD-97 checksum uygular.
 
+## Opsiyonel Adapter Paketleri
+
+Yayindaki ekosistem paketleri:
+
+- `@apideposu/tr-validation-zod`
+  - npm: https://www.npmjs.com/package/@apideposu/tr-validation-zod
+  - GitHub: https://github.com/apideposu/tr-validation-zod
+  - amac: stabil core validator'lar icin opsiyonel Zod schema ve helper wrapper'lari
+
 ## Dokumanlar
 
 - Katki rehberi: [CONTRIBUTING.md](./CONTRIBUTING.md)

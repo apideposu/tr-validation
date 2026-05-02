@@ -34,6 +34,9 @@ Long term:
 
 - Keep `@apideposu/tr-validation` as the lightweight core package.
 - Keep framework dependencies out of core. React, Zod, Valibot, NestJS, and similar integrations belong in optional adapter packages.
+- First published adapter: `@apideposu/tr-validation-zod`
+  - npm: https://www.npmjs.com/package/@apideposu/tr-validation-zod
+  - GitHub: https://github.com/apideposu/tr-validation-zod
 - Do not open multiple new repos at once. Start with examples in this repo, then create adapter repos only when the first adapter is real and publish-ready.
 - Treat heavy datasets such as neighborhood/address layers as separate package candidates rather than growing the core tarball by default.
 - See [ECOSYSTEM_ROADMAP.md](./ECOSYSTEM_ROADMAP.md) for the detailed phased plan.
