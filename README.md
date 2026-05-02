@@ -10,8 +10,18 @@ Turkish documentation: [README.tr.md](./README.tr.md)
 - It does not call API Deposu backend.
 - It does not send data anywhere.
 - It does not perform registry lookup.
+- It does not include telemetry, analytics, or network calls.
 - It does not perform official person, company, tax, or bank-account verification.
 - It provides structural validation, known control algorithms, and normalization only.
+
+## Limitations
+
+- `validateIban` is TR-only.
+- `normalizePhone` does not verify the current operator and does not check portability records.
+- `possibleOriginalOperator` is a prefix-based hint only.
+- `normalizeProvince` and `normalizeDistrict` rely on bundled static data, not live government or address registries.
+- Ambiguous district names such as `Merkez` may require province context.
+- A successful result does not mean official verification.
 
 ## Current Scope
 
@@ -34,6 +44,39 @@ Exports:
 ```bash
 npm install @apideposu/tr-validation
 ```
+
+## API Overview
+
+Base validation result shape:
+
+```ts
+{
+  ok: boolean;
+  input: string;
+  normalized: string;
+  reasons: string[];
+  mode: "structural_validation" | "number_plan_parse" | "static_dataset";
+  localOnly: true;
+  officialVerification: false;
+  registryLookup: false;
+}
+```
+
+Function summary:
+
+| Function | Purpose | Notes |
+| --- | --- | --- |
+| `validateTckn(input)` | Structural validation for TCKN | Format + known control algorithm only |
+| `validateVkn(input)` | Structural validation for VKN | Format + known control algorithm only |
+| `validateIban(input)` | Structural validation for TR IBAN | TR-only, MOD-97 checksum |
+| `formatIban(input)` | Formats an IBAN in 4-character groups | Normalizes separators and casing |
+| `normalizeTurkishText(input)` | Turkish-aware text normalization | Returns `trimmed`, `normalized`, `ascii`, `slug`, `searchKey` |
+| `slugifyTurkish(input)` | Slug helper for Turkish text | Consistent with `normalizeTurkishText(input).slug` |
+| `normalizePhone(input, options?)` | Local Turkish phone parsing and normalization | Adds `e164`, `national`, `country`, `type`, and prefix-based operator hint |
+| `getProvinces()` | Returns bundled province records | Static dataset only |
+| `getDistrictsByProvince(provinceCodeOrSlug)` | Returns districts for a province | Static dataset only |
+| `normalizeProvince(input)` | Matches a province by code, name, or slug | Returns `province` on success |
+| `normalizeDistrict(input, options?)` | Matches a district, optionally within a province | Returns `district` and `province` on success |
 
 ## Usage
 
@@ -134,13 +177,58 @@ normalizeDistrict("Merkez");
 // }
 ```
 
+## Reason Codes
+
+Common reason codes:
+
+| Code | Meaning |
+| --- | --- |
+| `EMPTY_INPUT` | Input is empty after normalization |
+| `UNSUPPORTED_CHARACTERS` | Input contains unsupported characters |
+| `INVALID_LENGTH` | Input length does not match the expected structural length |
+| `INVALID_CHECKSUM` | Input fails a known control algorithm |
+
+TCKN-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `LEADING_ZERO` | First digit is `0` |
+| `REPEATED_DIGITS` | All digits are the same |
+
+VKN-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `REPEATED_DIGITS` | All digits are the same |
+
+IBAN-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `NON_TR_IBAN` | IBAN does not start with `TR` |
+
+Phone-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `INVALID_PHONE` | Input cannot be parsed as a valid phone number |
+| `NON_TR_PHONE` | Input is valid as a phone number but not a Turkish one |
+
+Location-specific:
+
+| Code | Meaning |
+| --- | --- |
+| `PROVINCE_NOT_FOUND` | Province match could not be resolved |
+| `DISTRICT_NOT_FOUND` | District match could not be resolved |
+| `AMBIGUOUS_DISTRICT` | District name matches multiple provinces |
+
 ## Notes
 
-- `normalizePhone` uses `libphonenumber-js` locally and can return E.164, national format, country, type, and a prefix-based possible original operator hint.
-- The package does not claim current operator verification and does not consult portability records.
+- `normalizePhone` uses `libphonenumber-js` locally.
+- `possibleOriginalOperator` is derived from number prefixes only and may be outdated because of number portability.
 - `getProvinces` and `getDistrictsByProvince` use bundled static JSON data.
 - `normalizeProvince` and `normalizeDistrict` use the bundled static dataset plus Turkish text normalization.
-- `validateIban` remains TR-only and performs structural validation plus MOD-97 checksum.
+- `validateIban` performs structural validation plus MOD-97 checksum for TR IBAN values only.
 
 ## Docs
 
@@ -151,6 +239,7 @@ normalizeDistrict("Merkez");
 ## Development
 
 ```bash
+npm run datasets:check
 npm test
 npm run build
 ```
