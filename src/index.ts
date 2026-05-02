@@ -38,6 +38,8 @@ export type { CurrencyCode, TurkishCurrencyParseResult } from "./format/parse-tu
 export { parseTurkishNumber } from "./format/parse-turkish-number";
 export type { TurkishNumberLocale, TurkishNumberParseResult } from "./format/parse-turkish-number";
 export { formatIban } from "./iban/format-iban";
+export { listTrBanks, resolveIbanBank } from "./iban/resolve-iban-bank";
+export type { ResolveIbanBankResult, TrBankRecord, TrBankType } from "./iban/resolve-iban-bank";
 export { validateIban } from "./iban/validate-iban";
 export type { IbanValidationResult } from "./iban/validate-iban";
 export { getDistrictsByProvince } from "./location/get-districts-by-province";
