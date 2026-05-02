@@ -1,0 +1,61 @@
+{
+  "name": "@apideposu/tr-validation",
+  "version": "0.1.0",
+  "description": "Local-only validation and normalization toolkit for Türkiye-specific form data.",
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.js"
+    }
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apideposu/tr-validation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apideposu/tr-validation/issues"
+  },
+  "homepage": "https://github.com/apideposu/tr-validation#readme",
+  "keywords": [
+    "turkiye",
+    "turkish",
+    "validation",
+    "normalization",
+    "iban",
+    "tckn",
+    "vkn",
+    "privacy",
+    "local-only"
+  ],
+  "scripts": {
+    "clean": "node -e \"require('node:fs').rmSync('dist',{ recursive: true, force: true })\"",
+    "build": "tsup",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.3"
+  }
+}
