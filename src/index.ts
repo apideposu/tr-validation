@@ -1,4 +1,26 @@
 export type { ValidationResult } from "./common/result";
+export { validateBatch } from "./batch/validate-batch";
+export type {
+  BatchItemId,
+  ValidateBatchBarcodeItem,
+  ValidateBatchCreditCardItem,
+  ValidateBatchDistrictItem,
+  ValidateBatchIbanItem,
+  ValidateBatchItem,
+  ValidateBatchItemType,
+  ValidateBatchMersisItem,
+  ValidateBatchPhoneItem,
+  ValidateBatchPlateItem,
+  ValidateBatchPostalCodeItem,
+  ValidateBatchProvinceItem,
+  ValidateBatchResultItem,
+  ValidateBatchResultMap,
+  ValidateBatchResultTuple,
+  ValidateBatchTcknItem,
+  ValidateBatchTurkishCurrencyItem,
+  ValidateBatchTurkishNumberItem,
+  ValidateBatchVknItem,
+} from "./batch/validate-batch";
 export {
   BARCODE_REASON_CODES,
   CARD_REASON_CODES,

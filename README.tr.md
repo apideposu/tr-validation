@@ -58,6 +58,7 @@ Export edilen fonksiyonlar:
 - `getDistrictsByProvince`
 - `normalizeProvince`
 - `normalizeDistrict`
+- `validateBatch`
 
 ## API Ozeti
 
@@ -91,6 +92,7 @@ Fonksiyon ozeti:
 | `getDistrictsByProvince(provinceCodeOrSlug)` | Bir ile ait ilceleri doner | Sadece statik dataset |
 | `normalizeProvince(input)` | Il kodu, adi veya slug ile eslesme yapar | Basariliysa `province` doner |
 | `normalizeDistrict(input, options?)` | Ilce eslesmesi yapar, gerekirse province context kullanir | Basariliysa `district` ve `province` doner |
+| `validateBatch(items)` | Karisik validator/parser islemlerini sirayla calistirir | Input sirasini korur ve mevcut core fonksiyonlara delege eder |
 
 ## Genis Kullanim
 
@@ -104,6 +106,7 @@ import {
   normalizeProvince,
   normalizeTurkishText,
   slugifyTurkish,
+  validateBatch,
   validateIban,
   validateTckn,
   validateVkn,
@@ -121,6 +124,11 @@ const provinces = getProvinces();
 const districts = getDistrictsByProvince("34");
 const province = normalizeProvince("Istanbul");
 const district = normalizeDistrict("Kadikoy", { province: "34" });
+const batch = validateBatch([
+  { type: "tckn", value: "10000000146" },
+  { type: "iban", value: "TR62 0001 0012 3456 7890 1234 56" },
+  { type: "phone", value: "0532 123 45 67" },
+]);
 ```
 
 CommonJS:
