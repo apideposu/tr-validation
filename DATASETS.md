@@ -84,12 +84,19 @@ Do not update the dataset for:
 When editing bundled data:
 
 1. update the relevant JSON file
-2. verify `normalized` fields match package slug behavior
-3. verify `districtCount` stays correct for every affected province
-4. update or add tests for the changed behavior
-5. run:
+2. run dataset validation:
 
 ```bash
+npm run datasets:check
+```
+
+3. verify `normalized` fields match package slug behavior
+4. verify `districtCount` stays correct for every affected province
+5. update or add tests for the changed behavior
+6. run:
+
+```bash
+npm run datasets:check
 npm test
 npm run build
 npm pack --dry-run
@@ -137,4 +144,10 @@ If dataset updates become frequent, add a small maintainer script that:
 - checks duplicate district slug collisions
 - checks that `normalized` matches `slugifyTurkish(name)`
 
-That script should remain a local development utility, not a runtime dependency.
+That script now exists as:
+
+```bash
+npm run datasets:check
+```
+
+It remains a local development utility, not a runtime dependency.
