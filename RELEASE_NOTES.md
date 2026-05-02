@@ -1,5 +1,36 @@
 # Release Notes
 
+## 0.4.0 - 2026-05-03
+
+This release focuses on integration ergonomics on top of the 0.3.0 algorithm surface. The package gains two new helpers, a published Zod adapter, integration examples, and clearer scope documentation. No breaking changes.
+
+Added — helpers:
+
+- `validateBatch(items)` — runs a heterogeneous list of validators and parsers in input order and returns a tuple-typed result, so a single call can mix TCKN, IBAN, phone, plate, postal code, and the rest without orchestration boilerplate. Delegates to the existing single-input functions.
+- `getReasonMessage(code, locale?)` — maps reason codes (and any `AnyReasonCode` value) to UI-friendly text in `tr` or `en`, so form and import flows can render reasons without maintaining their own translation tables.
+
+Documentation and integration:
+
+- New integration examples under `examples/`: Node.js, Next.js, NestJS, and React Hook Form.
+- New `ECOSYSTEM_ROADMAP.md` capturing the long-term direction (core stays light, adapters stay optional, heavy datasets stay isolated) and an explicit evaluation matrix for external TR validation libraries.
+- New "Out of Scope" section in `README.md` listing every official registry this package never calls (NVI, KPSPublic, BDDK, TCMB, EGM, KGM, MERSIS, GIB, PTT, UAVT, live FX), plus a clarification that some synthetic inputs that satisfy the published algorithm are still accepted as structurally valid.
+- README links to the first published adapter, `@apideposu/tr-validation-zod`.
+
+Operational:
+
+- Adds bundle-size and runtime smoke checks alongside the existing `datasets:check`, test, build, and `npm pack --dry-run` steps so each release is reproducible.
+
+Behavior and packaging:
+
+- Public API of every existing function is unchanged. No breaking changes for current consumers.
+- No new runtime dependencies were added.
+- The package remains fully local-only. No network calls, no registry lookup, no official verification.
+
+Notes:
+
+- `validateBatch` is a thin orchestrator; correctness still comes from the single-input validators it delegates to.
+- `getReasonMessage` covers the reason codes shipped at 0.4.0; new reason codes added in future releases will gain messages alongside them.
+
 ## 0.3.0 - 2026-05-02
 
 This release significantly expands the local-only toolkit with new validators, parsers, and helpers that go beyond regex by combining structural rules, bundled static data, and known control algorithms.
