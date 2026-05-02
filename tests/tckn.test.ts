@@ -21,6 +21,14 @@ describe("validateTckn", () => {
     expect(result.normalized).toBe("10000000146");
   });
 
+  it("accepts the full supported separator set", () => {
+    const result = validateTckn("100.000/001_46");
+
+    expect(result.ok).toBe(true);
+    expect(result.normalized).toBe("10000000146");
+    expect(result.reasons).toEqual([]);
+  });
+
   it("rejects values with leading zero", () => {
     const result = validateTckn("01234567890");
 
@@ -55,6 +63,14 @@ describe("validateTckn", () => {
     expect(result.ok).toBe(false);
     expect(result.normalized).toBe("10000000146");
     expect(result.reasons).toContain("UNSUPPORTED_CHARACTERS");
+  });
+
+  it("keeps both unsupported-character and invalid-length reasons when applicable", () => {
+    const result = validateTckn("abc123");
+
+    expect(result.ok).toBe(false);
+    expect(result.normalized).toBe("123");
+    expect(result.reasons).toEqual(["UNSUPPORTED_CHARACTERS", "INVALID_LENGTH"]);
   });
 
   it("marks empty input explicitly", () => {

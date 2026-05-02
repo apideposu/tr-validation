@@ -18,6 +18,14 @@ describe("validateVkn", () => {
     expect(result.normalized).toBe("7340334753");
   });
 
+  it("accepts the full supported separator set", () => {
+    const result = validateVkn("734/033_4753");
+
+    expect(result.ok).toBe(true);
+    expect(result.normalized).toBe("7340334753");
+    expect(result.reasons).toEqual([]);
+  });
+
   it("rejects repeated digits", () => {
     const result = validateVkn("1111111111");
 
@@ -44,6 +52,14 @@ describe("validateVkn", () => {
 
     expect(result.ok).toBe(false);
     expect(result.reasons).toContain("UNSUPPORTED_CHARACTERS");
+  });
+
+  it("keeps unsupported-character and repeated-digit reasons together when both apply", () => {
+    const result = validateVkn("VKN1111111111");
+
+    expect(result.ok).toBe(false);
+    expect(result.normalized).toBe("1111111111");
+    expect(result.reasons).toEqual(["UNSUPPORTED_CHARACTERS", "REPEATED_DIGITS"]);
   });
 
   it("marks empty input explicitly", () => {

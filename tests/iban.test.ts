@@ -22,13 +22,14 @@ describe("validateIban", () => {
     expect(result.reasons).toEqual(["INVALID_CHECKSUM"]);
   });
 
-  it("rejects non-TR IBAN values", () => {
+  it("rejects non-TR IBAN values with all applicable reasons", () => {
     const result = validateIban("GB82WEST12345698765432");
 
     expect(result.ok).toBe(false);
+    expect(result.normalized).toBe("GB82WEST12345698765432");
     expect(result.country).toBeNull();
     expect(result.formatted).toBeNull();
-    expect(result.reasons).toContain("NON_TR_IBAN");
+    expect(result.reasons).toEqual(["NON_TR_IBAN", "INVALID_LENGTH"]);
   });
 
   it("rejects unsupported characters", () => {
@@ -36,6 +37,16 @@ describe("validateIban", () => {
 
     expect(result.ok).toBe(false);
     expect(result.reasons).toContain("UNSUPPORTED_CHARACTERS");
+  });
+
+  it("keeps TR country information for TR-prefixed malformed values", () => {
+    const result = validateIban("tr!!");
+
+    expect(result.ok).toBe(false);
+    expect(result.normalized).toBe("TR!!");
+    expect(result.country).toBe("TR");
+    expect(result.formatted).toBeNull();
+    expect(result.reasons).toEqual(["UNSUPPORTED_CHARACTERS", "INVALID_LENGTH"]);
   });
 
   it("marks empty input explicitly", () => {
@@ -49,5 +60,11 @@ describe("validateIban", () => {
 describe("formatIban", () => {
   it("formats normalized IBAN values in 4-character groups", () => {
     expect(formatIban("tr620001001234567890123456")).toBe("TR62 0001 0012 3456 7890 1234 56");
+  });
+
+  it("normalizes separators and casing before grouping", () => {
+    expect(formatIban("tr62-0001 0012-3456 7890-1234 56")).toBe(
+      "TR62 0001 0012 3456 7890 1234 56",
+    );
   });
 });
